@@ -5,7 +5,7 @@
       "name": "Mint",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/mint.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-10-18",
       "nsfw": true
     },
@@ -13,7 +13,7 @@
       "name": "Jibril",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/jibril.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-10-18",
       "nsfw": true
     },
@@ -21,7 +21,7 @@
       "name": "Aoi Shirahama",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/aoi-shirahama.png",
-      "revision": 2,
+      "revision": 3,
       "updated": "2026-10-18",
       "nsfw": true
     },
@@ -29,7 +29,7 @@
       "name": "Ren Kisaragi",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/ren-kisaragi.png",
-      "revision": 2,
+      "revision": 3,
       "updated": "2026-10-18",
       "nsfw": true
     }

@@ -32,9 +32,17 @@ SCENE_TEXT = ['title', 'description', 'world_context', 'starting_location', 'tim
               'opening_narration', 'first_message', 'gm_tone', 'narrator_style']
 TRIGGERS = {'keyword', 'regex', 'always_on', 'tension'}
 OBSOLETE_SCENE_FIELDS = {'conversation_method'}
+# OtakuSoul hides content with this mark while adult content is off (app: modules/nsfw.rs).
+NSFW_MARK = 'otakusoul_nsfw'
 
 errors: list[str] = []
 warnings: list[str] = []
+
+
+def check_nsfw_mark(where: str, holder: dict):
+    """Every card, scene and lorebook here is adult content and must carry the app's mark."""
+    if ((holder.get('extensions') or {}).get(NSFW_MARK)) is not True:
+        errors.append(f'{where}: Markierung extensions.{NSFW_MARK} = true fehlt (die App blendet den Inhalt sonst nicht aus)')
 
 
 def rel(path: str) -> str:
@@ -86,6 +94,7 @@ def check_card(path: str, card: dict):
         if not data.get(key):
             errors.append(f'{where}: Feld {key} leer')
     ext = data.get('extensions') or {}
+    check_nsfw_mark(where, data)
     legacy = [k for k in ext if k.startswith('sow_')]
     if legacy:
         warnings.append(f'{where}: alte Schlüssel {legacy} (custom_* verwenden)')
@@ -184,6 +193,7 @@ def check_registry(file: str, key: str, required: list[str]) -> list[dict]:
 
 def check_scene(path: str, scene: dict, names: set[str], lorebooks: set[str]):
     where = rel(path)
+    check_nsfw_mark(where, scene)
     for field in OBSOLETE_SCENE_FIELDS & set(scene):
         warnings.append(f'{where}: veraltetes Feld {field}')
     if scene.get('persona') == 'None':
@@ -219,6 +229,7 @@ def check_scene(path: str, scene: dict, names: set[str], lorebooks: set[str]):
 
 def check_lorebook(path: str, book: dict):
     where = rel(path)
+    check_nsfw_mark(where, book)
     uids = [e.get('uid') for e in book.get('entries') or []]
     if None in uids or len(set(uids)) != len(uids):
         errors.append(f'{where}: uid fehlt oder doppelt')

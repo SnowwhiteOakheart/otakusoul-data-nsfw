@@ -45,5 +45,10 @@ tools/validate_content.py        Validierungswerkzeug
      - `ecstasy`: Lustempfinden, intimer Höhepunkt
      - `afterglow`: Erschöpfte Zufriedenheit, Kuscheln
    * Dazu die Nischen-Schlüssel `teasing`, `fear`, `disgust` und `crying`.
-4. **Validierung vor jedem Push:**
+4. **App-Markierung `extensions.otakusoul_nsfw`:**
+   * Jede Karte (`data.extensions`, in Preset-JSON, Preset-PNG und `cards_gateway`-PNG), jede Szene und jedes Lorebook
+     (oberste Ebene `extensions`) trägt `"otakusoul_nsfw": true`. OtakuSoul blendet so markierte Inhalte aus, solange
+     „Inhalte für Erwachsene (18+)“ aus ist – auch bei Import als Datei. Der Validator meldet eine fehlende Markierung als Fehler.
+   * Volljährigkeit jeder Figur steht ausdrücklich in der Karte (Beschreibung bzw. `creator_notes`, alle Sprachen).
+5. **Validierung vor jedem Push:**
    * Vor jedem Commit `python3 tools/validate_content.py` ausführen.

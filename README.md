@@ -42,6 +42,12 @@ Karten in diesem Repository können neben den 6 Standard-Emotionen (`neutral`, `
 
 ---
 
+## 🔞 Kennzeichnung für die App
+
+Alle Karten, Szenen und Lorebooks tragen `extensions.otakusoul_nsfw: true`. OtakuSoul lädt diese Quelle nur nach
+einmaliger Altersbestätigung und aktiviertem „Inhalte für Erwachsene (18+)“ und blendet markierte Inhalte aus, solange
+die Option aus ist.
+
 ## 🛠️ Validierung vor jedem Commit
 
 ```sh

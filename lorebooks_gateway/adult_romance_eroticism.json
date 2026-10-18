@@ -366,5 +366,8 @@
         }
       }
     }
-  ]
+  ],
+  "extensions": {
+    "otakusoul_nsfw": true
+  }
 }

@@ -18,5 +18,9 @@
 - [x] **Aoi Shirahama und Ren Kisaragi:** originale 21-jährige Berufseinsteiger in Tokio, je 15 Emotionsbilder plus Kartenporträt (`presets/tokyo-first-shift/`)
 - [x] Erste FSK18-Soul-Stage für Mint vorbereiten (`presets/neverness-to-everness/scenes/nachtschicht_in_hethereau.json`)
 - [x] Adulte Lorebooks für Erotik- und Romance-Begriffe anlegen (`nte_esper_intimacy.json`, `adult_romance_eroticism.json`)
-- [ ] Integration mit der OtakuSoul-App (Multi-Hub) testen
+- [x] App-Markierung `extensions.otakusoul_nsfw` in allen Karten (JSON, Preset- und Gateway-PNG), Szenen und Lorebooks;
+  Validator meldet fehlende Markierung als Fehler
+- [x] Mint: Alter ausdrücklich volljährig (21) in allen Sprachen
+- [ ] Integration mit der OtakuSoul-App (Multi-Hub) testen – App-Seite fertig (18+-Schalter, zweite Hub-Quelle), echter
+  Test sobald das Repository öffentlich erreichbar ist
 

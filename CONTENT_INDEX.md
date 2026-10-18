@@ -27,9 +27,11 @@
      "notes": ["nsfw", "adult", "romance"],
      "rating": "18+"
      ```
-2. **Kanonische Expressions:**
+2. **App-Markierung:** Karten (`data.extensions`), Szenen und Lorebooks (`extensions`) tragen `"otakusoul_nsfw": true`;
+   die App blendet sie aus, solange 18+ aus ist (Validator prüft das).
+3. **Kanonische Expressions:**
    * Standard: `neutral`, `happy`, `relaxed`, `surprised`, `angry`, `sad`
    * Erweiterte Romance/NSFW-Schlüssel: `blush`, `seductive`, `aroused`, `ecstasy`, `afterglow`
    * Erweiterte Nischen-Schlüssel: `teasing`, `fear`, `disgust`, `crying`
-3. **Validierung vor dem Push:**
+4. **Validierung vor dem Push:**
    * `python3 tools/validate_content.py` muss mit 0 Fehlern durchlaufen.
