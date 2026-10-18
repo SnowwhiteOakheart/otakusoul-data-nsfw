@@ -25,8 +25,9 @@
 >
 > 1. **Altersbestätigung:** Mit dem Betrachten, Klonen oder Verwenden der Inhalte dieses Repositorys bestätigst du, dass du mindestens **18 Jahre alt** bzw. nach dem Recht deines Aufenthaltsortes volljährig bist.
 > 2. **Strikte Volljährigkeit aller Figuren:** **Alle in diesem Repository dargestellten Charaktere sind ausnahmslos rein fiktiv und nachweislich volljährig (mindestens 18 Jahre alt bzw. unsterbliche adulte Wesen).**
-> 3. **Nulltoleranz beim Jugendschutz:** Jegliche Darstellung, Verherrlichung oder Befürwortung von Handlungen mit Minderjährigen (CSAM/CSAE) ist strikt verboten und ausgeschlossen.
-> 4. **Nicht-kommerziell:** Dieses Repository ist ein privates, nicht-kommerzielles Fanprojekt.
+> 3. **Keine Nacktheit / Kein expliziter Content (GitHub-konform):** Dieses Repository enthält freizügige Pin-up-, Ecchi- und Romance-Illustrationen (Lingerie, Dessous, Ausdrücke), jedoch **keine Nacktheit (keine primären Geschlechtsorgane oder entblößte Brustwarzen) und keine expliziten sexuellen Handlungen**. Explizite Inhalte (Explicit / Hentai) werden grundsätzlich extern außerhalb von GitHub gehostet.
+> 4. **Nulltoleranz beim Jugendschutz:** Jegliche Darstellung, Verherrlichung oder Befürwortung von Handlungen mit Minderjährigen (CSAM/CSAE) ist strikt verboten und ausgeschlossen.
+> 5. **Nicht-kommerziell:** Dieses Repository ist ein privates, nicht-kommerzielles Fanprojekt.
 
 ---
 
@@ -89,7 +90,9 @@ This repository serves as the official age-gated adult content gateway for the [
 * **Trilingual:** All cards, dialogues, and stages are authored with full German (DE), English (EN), and Russian (RU) localizations.
 
 ### ⚖️ Legal & Trademarks
-All depicted characters are **purely fictional adults (aged 18 or older)**. Any sexual depiction of minors is strictly prohibited. All third-party trademarks and copyrighted characters belong to their respective creators and publishers.
+* **No Graphic Nudity / GitHub Compliance:** This repository contains suggestive pin-up, ecchi, and romance content (lingerie, sensual expressions), but **strictly no graphic nudity (no exposed genitalia or nipples) and no explicit sexual acts**. Fully explicit content is hosted externally outside of GitHub.
+* **Adults Only (18+):** All depicted characters are **purely fictional adults (aged 18 or older)**. Any sexual depiction of minors is strictly prohibited.
+* **Trademarks:** All third-party trademarks and copyrighted characters belong to their respective creators and publishers.
 
 ---
 
@@ -101,6 +104,7 @@ All depicted characters are **purely fictional adults (aged 18 or older)**. Any 
 Этот репозиторий является официальным шлюзом контента категории 18+ для настольного приложения [OtakuSoul](https://github.com/SnowwhiteOakheart/OtakuSoul):
 * **Разделение контента:** Основной репозиторий [`otakusoul-data`](https://github.com/SnowwhiteOakheart/otakusoul-data) остаётся строго безопасным для работы (SFW).
 * **Шлюз для взрослых:** Здесь размещены романтические и эротические сцены (Soul Stages), карточки персонажей со взрослыми эмоциями и интимные лорбуки.
+* **Без откровенной наготы (соответствие правилам GitHub):** Репозиторий содержит пинап-, этти- и романтические иллюстрации (бельё, чувственные эмоции), но **строго без обнажённых гениталий/сосков и без изображения половых актов**. Откровенный контент (Explicit / Hentai) размещается исключительно на внешних ресурсах за пределами GitHub.
 * **Все персонажи строго совершеннолетние (18+):** Все представленные персонажи вымышлены и достигли совершеннолетия (не менее 18 лет либо являются взрослыми бессмертными существами).
 
 ---
