@@ -1,0 +1,22 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+
+# Temporäre Archive
+*.zip
+*.tar.gz
+
+# Lokale Python-Wartungsumgebung
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Avatare (VRM-Modelle nicht im Git-Repository versionieren)
+avatars/vrm/*.vrm
