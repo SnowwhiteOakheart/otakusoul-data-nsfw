@@ -10,8 +10,10 @@
 
 | Paket (`presets/<id>`) | Franchise / Setting | Charaktere (`soul_registry.json`) | Soul Stages (`stages_gateway/*.json`) | Aktive Lorebooks (`lorebooks_gateway/*.json`) |
 |---|---|---|---|---|
-| `neverness-to-everness` | Neverness to Everness (NTE) | `Mint` *(Sinnliche Spürnase)* | *(in Vorbereitung)* | - |
+| `neverness-to-everness` | Neverness to Everness (NTE) | `Mint` *(Sinnliche Spürnase)* | `Nachtschicht in Hethereau` (`nachtschicht_in_hethereau.json`) | `Neverness to Everness – Esper-Intimität` (`nte_esper_intimacy.json`) |
 | `no-game-no-life` | No Game No Life (NGNL) | `Jibril` *(Devote Flügel-Bibliothekarin)* | *(in Vorbereitung)* | - |
+| `tokyo-first-shift` | Original, Tokio, erster Job | `Aoi Shirahama` *(Nachtproducerin)*, `Ren Kisaragi` *(Nachtbarkeeper)* | *(in Vorbereitung)* | - |
+| `shared` | Universell / Übergreifend | - | - | `Adulte Romance & Erotik` (`adult_romance_eroticism.json`) |
 
 
 ---

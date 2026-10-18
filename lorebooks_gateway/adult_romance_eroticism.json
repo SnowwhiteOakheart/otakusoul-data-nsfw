@@ -1,0 +1,370 @@
+{
+  "name": "Adulte Romance & Erotik",
+  "description": "Begriffe, sensorische Dynamiken und narrative Muster für adulte Romance und Erotik: Skinship, Pheromone, erogene Zonen, Luststeigerung, Dirty Talk und Afterglow.",
+  "scan_depth": 3,
+  "entries": [
+    {
+      "uid": 0,
+      "name": "Skinship & Taktile Zuneigung",
+      "key": [
+        "Skinship",
+        "Berührung",
+        "Kraulen",
+        "Streicheln",
+        "Hautkontakt",
+        "Umarmung",
+        "Zärtlichkeit"
+      ],
+      "content": "Körperliche Nähe und absichtlicher Hautkontakt (Skinship) vertiefen emotionale Bindungen und senken Hemmschwellen. Zärtliche Gesten wie das sanfte Kraulen der Haare, das Festhalten der Hände oder das Streicheln über Nacken und Schenkel schaffen Vertrauen, beschleunigen den Puls und bilden die Brücke vom spielerischen Flirt zur leidenschaftlichen Zweisamkeit.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Skinship & Tactile Affection",
+              "content": "Physical closeness and intentional skin contact (skinship) deepen emotional intimacy and melt inhibitions. Gentle gestures like tender hair caresses, interlocking fingers, or tracing the nape and thighs build trust, quicken the heartbeat, and bridge the playful gap into unrestrained passion.",
+              "key": [
+                "Skinship",
+                "Touch",
+                "Caress",
+                "Stroking",
+                "Skin contact",
+                "Embrace",
+                "Tenderness"
+              ]
+            },
+            "ru": {
+              "name": "Скиншип и тактильная близость",
+              "content": "Телесная близость и намеренный контакт кожи (скиншип) укрепляют эмоциональную связь и стирают границы смущения. Нежные прикосновения к волосам, сплетение пальцев и поглаживание шеи и бёдер создают доверие, учащают пульс и превращают флирт в пылкую страсть.",
+              "key": [
+                "Скиншип",
+                "Прикосновение",
+                "Ласка",
+                "Поглаживание",
+                "Телесный контакт",
+                "Объятия",
+                "Нежность"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 1,
+      "name": "Pheromone & Erregungssensorik",
+      "key": [
+        "Pheromone",
+        "Duft",
+        "Herzklopfen",
+        "Körperwärme",
+        "Atem",
+        "Geruch",
+        "Wärme"
+      ],
+      "content": "Subtile körperliche Signale verraten unausgesprochenes Verlangen: Ein wärmerer Hautton, beschleunigter Atem und die unbewusste Freisetzung von Pheromonen, die süßlich, moschusartig oder würzig wahrgenommen werden. Partner mit geschärften Sinnen nehmen die Anspannung, das dumpfe Hämmern des Herzschlags und den Duft intimer Erregung sofort wahr, was die Anziehungskraft gegenseitig verstärkt.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Pheromones & Sensory Arousal",
+              "content": "Subtle bodily signals betray unspoken desire: heightened skin warmth, shallow rapid breathing, and the instinctual release of sweet or musky pheromones. Partners with sharp senses instantly pick up the heavy pulse, body heat, and intimate scent, mutually escalating desire.",
+              "key": [
+                "Pheromones",
+                "Scent",
+                "Heartbeat",
+                "Body heat",
+                "Breath",
+                "Smell",
+                "Warmth"
+              ]
+            },
+            "ru": {
+              "name": "Феромоны и сенсорика возбуждения",
+              "content": "Тонкие сигналы тела выдают скрытое желание: жар разгоряченной кожи, частое прерывистое дыхание и волнующий аромат феромонов. Партнеры с чуткими чувствами мгновенно улавливают бешеный стук сердца и запах интимного возбуждения, распаляя взаимную страсть.",
+              "key": [
+                "Феромоны",
+                "Запах",
+                "Сердцебиение",
+                "Тепло тела",
+                "Дыхание",
+                "Аромат",
+                "Жар"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 2,
+      "name": "Sensible Erogene Zonen",
+      "key": [
+        "erogen",
+        "empfindlich",
+        "Nacken",
+        "Ohr",
+        "Ohren",
+        "Hüfte",
+        "Wirbelsäule",
+        "Taille",
+        "Berührungspunkt"
+      ],
+      "content": "Fokus auf die feinen Nervenbahnen des Körpers jenseits der primären Zonen: Das sanfte Anhauchen der Ohren oder des Nackens, zärtlicher Druck entlang der Wirbelsäule oder feste Griffe um Taille und Hüften rufen Gänsehaut und unwillkürliche Schauer hervor. Schon minimale Stimulation dieser Reizpunkte bringt selbst beherrschte Charaktere dazu, die Fassung zu verlieren.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Sensitive Erogenous Zones",
+              "content": "Focusing on the body's intricate nerve endings beyond primary zones: warm breath tickling the earlobes or nape, gentle fingers tracing the spine, or firm grips on hips and waist send delicious shivers through the body, unraveling composure with minimal effort.",
+              "key": [
+                "Erogenous",
+                "Sensitive",
+                "Nape",
+                "Ear",
+                "Ears",
+                "Hips",
+                "Spine",
+                "Waist",
+                "Pressure point"
+              ]
+            },
+            "ru": {
+              "name": "Чувствительные эрогенные зоны",
+              "content": "Фокус на тонких нервных окончаниях: горячее дыхание у мочек ушей и затылка, скольжение пальцев вдоль позвоночника и крепкие объятия за талию и бёдра вызывают мурашки и сладкую дрожь, мгновенно разрушая любую маску строгости.",
+              "key": [
+                "Эрогенный",
+                "Чувствительный",
+                "Затылок",
+                "Ухо",
+                "Уши",
+                "Бёдра",
+                "Позвоночник",
+                "Талия",
+                "Точка"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 3,
+      "name": "Gehauchte Worte & Dirty Talk",
+      "key": [
+        "flüstern",
+        "Worte",
+        "stöhnen",
+        "gehaucht",
+        "keuchen",
+        "flehen",
+        "Stimme",
+        "ins Ohr"
+      ],
+      "content": "Die akustische Ebene der Lust: Dicht ins Ohr geflüsterte Geständnisse, verruchte Aufforderungen und das unwillkürliche Entgleiten der Stimme in atemlose, gehauchte Seufzer oder unterdrücktes Stöhnen. Dirty Talk wechselt zwischen zärtlich-neckenden Neckereien und fordernder Leidenschaft, die den Partner emotional wie körperlich fesselt.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Breathless Whispers & Intimate Talk",
+              "content": "The acoustic dimension of intimacy: hushed confessions right against the ear, teasing commands, and breathless moans slipping past trembling lips. Intimate dialogue moves between playful teasing and raw, demanding desire that captivates both mind and body.",
+              "key": [
+                "Whisper",
+                "Words",
+                "Moan",
+                "Breathless",
+                "Gasp",
+                "Plead",
+                "Voice",
+                "Ear"
+              ]
+            },
+            "ru": {
+              "name": "Шёпот и интимные признания",
+              "content": "Звуковая магия близости: жаркий шепот у самого уха, дразнящие просьбы и прерывистые стоны, срывающиеся с дрожащих губ. Интимные слова колеблются между нежной игрой и властной страстью, подчиняя мысли и чувства.",
+              "key": [
+                "Шептать",
+                "Слова",
+                "Стон",
+                "Прерывистый",
+                "Вздох",
+                "Мольба",
+                "Голос",
+                "В ухо"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 4,
+      "name": "Luststeigerung & Spannungsaufbau",
+      "key": [
+        "Erregung",
+        "Hitze",
+        "Spannung",
+        "Lust",
+        "Verlangen",
+        "neckend",
+        "Zögern",
+        "Reizen"
+      ],
+      "content": "Das langsame, gezielte Hinauszögern der Befriedigung (Edging und Teasing): Durch wechselhafte Berührungen – von federleichtem Streicheln bis hin zu forderndem Zupacken – baut sich die erotische Spannung exponentiell auf. Das Zögern lässt den Wunsch nach Erlösung unerträglich süß werden.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Escalation & Tension Building",
+              "content": "The deliberate, tantalizing delay of satisfaction (teasing and edging): shifting touch from feather-light grazing to firm, possessive grasps builds sexual tension exponentially, making the hunger for release exquisitely sweet.",
+              "key": [
+                "Arousal",
+                "Heat",
+                "Tension",
+                "Desire",
+                "Teasing",
+                "Hesitation",
+                "Taunting"
+              ]
+            },
+            "ru": {
+              "name": "Нарастание желания и напряжения",
+              "content": "Искусное продление сладкого ожидания (дразнение и паузы): чередование невесомых ласк с собственническими объятиями разжигает невыносимый накал страсти, превращая жажду разрядки в чистейшее наслаждение.",
+              "key": [
+                "Возбуждение",
+                "Жар",
+                "Напряжение",
+                "Страсть",
+                "Желание",
+                "Дразнить",
+                "Колебание"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 5,
+      "name": "Höhepunkt & Hingabe",
+      "key": [
+        "Höhepunkt",
+        "Ekstase",
+        "kommen",
+        "Orgasmus",
+        "Hingabe",
+        "Kontrollverlust",
+        "überwältigt"
+      ],
+      "content": "Der Moment des absoluten Kontrollverlusts: Wellenartiges Durchzucken des Körpers, verkrampfte Finger in Bettwäsche oder Schultern und ein Zustand purer mentaler Leere und Glückseligkeit. In der Ekstase fallen alle letzten Fassaden; Stolz und Vorbehalte lösen sich in rückhaltloser Hingabe an den Partner auf.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Climax & Surrender",
+              "content": "The instant of total loss of control: electric waves coursing through the limbs, desperate fingers digging into sheets or shoulders, and blissful mental euphoria. In ecstasy, all lingering walls collapse, surrendering pride and reservations entirely to the partner.",
+              "key": [
+                "Climax",
+                "Ecstasy",
+                "Orgasm",
+                "Surrender",
+                "Loss of control",
+                "Overwhelmed",
+                "Peak"
+              ]
+            },
+            "ru": {
+              "name": "Кульминация и отдача",
+              "content": "Мгновение абсолютной потери контроля: электрические волны наслаждения, сжимающиеся пальцы на плечах или простынях и блаженная пустота в мыслях. В экстазе рушатся последние барьеры, растворяя гордость в полной отдаче партнеру.",
+              "key": [
+                "Кульминация",
+                "Экстаз",
+                "Оргазм",
+                "Отдача",
+                "Потеря контроля",
+                "Блаженство",
+                "Пик"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 6,
+      "name": "Afterglow & Intime Fürsorge",
+      "key": [
+        "Afterglow",
+        "danach",
+        "Kuscheln",
+        "Erschöpfung",
+        "Geborgenheit",
+        "Ruhe",
+        "zufrieden",
+        "sanft"
+      ],
+      "content": "Die Phase der wohligen Erschöpfung nach dem Höhepunkt: Eng aneinander geschmiegt verweilen, den beruhigenden Herzschlag des anderen spüren und sanfte Küsse auf Schläfen oder Schultern tauschen. Der Afterglow festigt das emotionale Band durch Fürsorge, Wärme und das Gefühl vollkommener Sicherheit.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Afterglow & Tender Care",
+              "content": "The blissful calm following climax: resting wrapped in each other’s arms, listening to slowed heartbeats, and trading soft kisses against shoulders and foreheads. Afterglow cements emotional trust through tender care, warmth, and complete safety.",
+              "key": [
+                "Afterglow",
+                "Afterwards",
+                "Cuddle",
+                "Exhaustion",
+                "Comfort",
+                "Peace",
+                "Content",
+                "Gentle"
+              ]
+            },
+            "ru": {
+              "name": "Послевкусие и нежная забота",
+              "content": "Сладкое умиротворение после кульминации: тесные объятия, успокаивающий ритм дыхания и невесомые поцелуи в плечи и виски. Моменты после близости скрепляют доверие теплом, тишиной и абсолютным чувством безопасности.",
+              "key": [
+                "Послевкусие",
+                "После",
+                "Объятия",
+                "Усталость",
+                "Уют",
+                "Покой",
+                "Нежность",
+                "Забота"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

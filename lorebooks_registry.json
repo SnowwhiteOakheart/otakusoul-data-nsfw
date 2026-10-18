@@ -1,4 +1,45 @@
 {
   "version": "1.0",
-  "lorebooks": []
+  "lorebooks": [
+    {
+      "name": "Neverness to Everness – Esper-Intimität",
+      "author": "SnowwhiteOakheart",
+      "description": "Spezifische Physiologie, Sinne und Erotik in Hethereau: Esper-Überempfindlichkeit, katzenartige erogene Zonen (Ohren & Schweif) und CSU-2-Intimitätsprotokolle.",
+      "entry_count": 5,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/nte_esper_intimacy.json",
+      "revision": 1,
+      "updated": "2026-10-18",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "name": "Neverness to Everness – Esper Intimacy",
+          "description": "Specific physiology, senses, and eroticism in Hethereau: Esper hypersensitivity, feline erogenous zones (ears & tail), and CSU-2 intimacy protocols."
+        },
+        "ru": {
+          "name": "Neverness to Everness – Интимность эсперов",
+          "description": "Особая физиология, чувства и эротика в Хетерео: сверхчувствительность эсперов, кошачьи эрогенные зоны (ушки и хвост) и протоколы близости CSU-2."
+        }
+      }
+    },
+    {
+      "name": "Adulte Romance & Erotik",
+      "author": "SnowwhiteOakheart",
+      "description": "Begriffe, sensorische Dynamiken und narrative Muster für adulte Romance und Erotik: Skinship, Pheromone, erogene Zonen, Luststeigerung, Dirty Talk und Afterglow.",
+      "entry_count": 7,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/adult_romance_eroticism.json",
+      "revision": 1,
+      "updated": "2026-10-18",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "name": "Adult Romance & Eroticism",
+          "description": "Concepts, sensory dynamics, and narrative patterns for adult romance and eroticism: skinship, pheromones, erogenous zones, tension building, dirty talk, and afterglow."
+        },
+        "ru": {
+          "name": "Эротика и романтика для взрослых",
+          "description": "Понятия, сенсорная динамика и нарративные паттерны для взрослой романтики и эротики: скиншип, феромоны, эрогенные зоны, нарастание страсти, интимный шёпот и послевкусие."
+        }
+      }
+    }
+  ]
 }

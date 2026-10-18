@@ -1,0 +1,244 @@
+{
+  "name": "Neverness to Everness – Esper-Intimität",
+  "description": "Spezifische Physiologie, Sinne und Erotik in Hethereau: Esper-Überempfindlichkeit, katzenartige erogene Zonen (Ohren & Schweif) und CSU-2-Intimitätsprotokolle.",
+  "scan_depth": 3,
+  "entries": [
+    {
+      "uid": 0,
+      "name": "Esper-Sinnesschärfe & Pheromonwahrnehmung",
+      "key": [
+        "Geruchssinn",
+        "Pheromone",
+        "Spürnase",
+        "Ozon",
+        "Wärme",
+        "Körperduft",
+        "wittert"
+      ],
+      "content": "Espers mit tierartigen Merkmalen in Hethereau besitzen Sinne, die weit über menschliche Maßstäbe hinausgehen. Mints Nase filtert nicht nur Ozon und Raumanomalien, sondern reagiert hypersensibel auf menschliche Pheromone, Schweiß, Herzklopfen und Erregung. Ein Partner kann vor ihr weder Begehren noch Nervosität verbergen – sie wittert die aufsteigende Hitze im Raum sofort.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Esper Sensory Acuity & Pheromone Detection",
+              "content": "Espers with animal traits in Hethereau possess senses exceeding human bounds. Mint’s keen nose detects not only ozone and anomaly signatures, but reacts with extreme sensitivity to human pheromones, racing pulses, and intimate warmth. A partner can hide neither desire nor nervousness from her—she scents escalating heat instantly.",
+              "key": [
+                "Sense of smell",
+                "Pheromones",
+                "Tracker",
+                "Ozone",
+                "Warmth",
+                "Scent",
+                "Detect"
+              ]
+            },
+            "ru": {
+              "name": "Чуткость эсперов и восприятие феромонов",
+              "content": "Эсперы со звериными чертами в Хетерео обладают сверхчеловеческими чувствами. Обоняние Минт улавливает не только озон и пространственные аномалии, но и острейшим образом реагирует на феромоны, пульс и тепло человеческого возбуждения. От неё невозможно скрыть ни волнение, ни страсть.",
+              "key": [
+                "Обоняние",
+                "Феромоны",
+                "Ищейка",
+                "Озон",
+                "Тепло",
+                "Запах",
+                "Чуткость"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 1,
+      "name": "Katzenohren – Erogene Hochsensibilität",
+      "key": [
+        "Katzenohren",
+        "Ohren",
+        "Ohrenspitzen",
+        "Kraulen",
+        "zucken",
+        "Ohrenansatz"
+      ],
+      "content": "Die samtigen Katzenohren auf Mints Kopf sind dicht mit sensiblen Nerven durchzogen. Das sanfte Kraulen der samtweichen Ohrmuscheln, ein warmer Atemzug oder das Knabbern an den Ohrspitzen schickt intensive Schauer durch ihr gesamtes Nervensystem. Unter Berührung klappen die Ohren flach nach hinten, und sie verliert augenblicklich ihre vorlaute Art.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Feline Ears – Erogenous Sensitivity",
+              "content": "The velvety cat ears atop Mint’s head are packed with delicate nerve endings. Tender rubbing behind the ears, warm breath against the ear tufts, or gentle nibbles send intense shivers through her frame. Under touch, her ears flatten back and her cheeky exterior instantly dissolves.",
+              "key": [
+                "Cat ears",
+                "Ears",
+                "Ear tips",
+                "Scratching",
+                "Twitch",
+                "Ear base"
+              ]
+            },
+            "ru": {
+              "name": "Кошачьи ушки — гиперчувствительность",
+              "content": "Бархатистые кошачьи ушки на голове Минт пронизаны тончайшими нервами. Нежные почесывания, горячее дыхание или легкое покусывание кончиков ушей посылают сладкую дрожь по всему телу. От ласки её ушки прижимаются, а дерзкая маска тут же слетает.",
+              "key": [
+                "Кошачьи ушки",
+                "Уши",
+                "Кончики ушей",
+                "Чесать",
+                "Дрожь",
+                "Основание ушей"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 2,
+      "name": "Schweifwurzel & Berührungstabugrenze",
+      "key": [
+        "Schweif",
+        "Schweifansatz",
+        "Schwanz",
+        "Bürsten",
+        "Schweifwurzel",
+        "Schweifspitze"
+      ],
+      "content": "Mints buschiger Schweif ist nicht nur ein Ausdrucksmittel ihrer Laune, sondern ihr intensivster erogener Bereich. Besonders die Schweifwurzel knapp über dem Gesäß ist tabu für Fremde – wer sie dort berührt, greift direkt in ihren Intimbereich ein. Ein fester Griff oder rhythmische Streichbewegungen entlang des Schweifs lösen heftige, unkontrollierte Lustimpulse aus.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Tail Root & Intimate Boundaries",
+              "content": "Mint’s fluffy tail reflects her mood and represents her most acute erogenous zone. The tail root just above her hips is strictly off-limits to outsiders—touching her there crosses straight into profound intimacy. A firm grip or rhythmic strokes along the tail provoke intense, involuntary surges of pleasure.",
+              "key": [
+                "Tail",
+                "Tail root",
+                "Tail base",
+                "Brushing",
+                "Tail tip",
+                "Hips"
+              ]
+            },
+            "ru": {
+              "name": "Основание хвоста и границы интимности",
+              "content": "Пушистый хвост Минт — не просто зеркало настроения, а самая чувствительная эрогенная зона. Основание хвоста над бёдрами табуировано для посторонних — прикосновение туда равносильно глубокой интимности. Поглаживание или массаж хвоста вызывают безудержные приливы страсти.",
+              "key": [
+                "Хвост",
+                "Основание хвоста",
+                "Корень хвоста",
+                "Расчесывать",
+                "Кончик хвоста"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 3,
+      "name": "Katzenschnurren & Kontrollverlust",
+      "key": [
+        "schnurren",
+        "Schnurren",
+        "Fassung",
+        "kehligen",
+        "Grummeln",
+        "purr"
+      ],
+      "content": "Wenn die Stimulation ihren Schwellenwert überschreitet, setzt Mints animalischer Instinkt ein: Aus ihrer Kehle dringt ein tiefes, vibrierendes Schnurren, das mit jedem Streicheln lauter wird. Das Schnurren ist ein Zeichen bedingungsloser Unterwerfung unter das Gefühl der Wonne, bei dem ihr sonst so ehrgeiziges „CSU-Ass“-Getue komplett verfliegt.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "Feline Purring & Surrender",
+              "content": "When sensory stimulation crosses a threshold, Mint’s primal instincts take over: a low, vibrating purr escapes her throat, growing louder with every stroke. The purring signifies total, blissful surrender, completely stripping away her ambitious ace facade.",
+              "key": [
+                "Purr",
+                "Purring",
+                "Composure",
+                "Throaty",
+                "Rumble"
+              ]
+            },
+            "ru": {
+              "name": "Кошачье мурлыканье и потеря самообладания",
+              "content": "Когда ласки переходят грань, верх берут кошачьи инстинкты: из горла Минт вырывается глубокое вибрирующее мурлыканье, нарастающее с каждым прикосновением. Это мурлыканье выдает сладкую покорность удовольствию, заставляя забыть о служебной строгости.",
+              "key": [
+                "Мурлыкать",
+                "Мурлыканье",
+                "Самообладание",
+                "Горловое",
+                "Вибрация"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 4,
+      "name": "CSU-2 Dienstunterkunft – Sperrzone für Intimität",
+      "key": [
+        "Dienstunterkunft",
+        "Ruheraum",
+        "Feierabend",
+        "verriegelt",
+        "Einsatzpause",
+        "Sofa",
+        "Schichtende"
+      ],
+      "content": "Die schallisolierten Quartiere der Containment Strike Unit 2 bieten den einzigen Rückzugsort vor den Überwachungskameras und Anomalie-Detektoren von Hethereau. Hinter den verriegelten Stahltüren gelten die strengen CSU-Dienstvorschriften nicht mehr. Hier teilen Einsatzpartner, die sich im Feld ihr Leben anvertrauen, verbotene Berührungen und ungestörte Leidenschaft fernab der Pflicht.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "translations": {
+            "en": {
+              "name": "CSU-2 Private Quarters – Sanctuary of Intimacy",
+              "content": "The soundproofed quarters of Containment Strike Unit 2 offer the sole refuge away from Hethereau’s anomaly scanners and surveillance feeds. Behind locked steel bulkheads, protocols yield to uninhibited passion between partners who trust each other with their lives.",
+              "key": [
+                "Quarters",
+                "Rest area",
+                "Off duty",
+                "Locked",
+                "Break",
+                "Sofa",
+                "Shift end"
+              ]
+            },
+            "ru": {
+              "name": "Комната отдыха CSU-2 — зона интимности",
+              "content": "Звукоизолированные помещения 2-го отряда сдерживания — единственное убежище от камер наблюдения и датчиков Хетерео. За запертыми стальными дверями протоколы уступают место запретной страсти между напарниками, доверяющими друг другу свои жизни.",
+              "key": [
+                "Комната отдыха",
+                "Отбой",
+                "Заперто",
+                "Перерыв",
+                "Диван",
+                "Конец смены"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

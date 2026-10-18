@@ -44,5 +44,6 @@ tools/validate_content.py        Validierungswerkzeug
      - `aroused`: Körperliche Erregung, beschleunigter Atem
      - `ecstasy`: Lustempfinden, intimer Höhepunkt
      - `afterglow`: Erschöpfte Zufriedenheit, Kuscheln
+   * Dazu die Nischen-Schlüssel `teasing`, `fear`, `disgust` und `crying`.
 4. **Validierung vor jedem Push:**
    * Vor jedem Commit `python3 tools/validate_content.py` ausführen.

@@ -38,6 +38,7 @@ Karten in diesem Repository können neben den 6 Standard-Emotionen (`neutral`, `
 * **`aroused`:** Körperliche Erregung, beschleunigter Atem
 * **`ecstasy`:** Lustempfinden, Höhepunkt, überwältigte Mimik
 * **`afterglow`:** Erschöpfte Zufriedenheit, Post-Coital-Entspannung
+* Dazu die Nischen-Schlüssel **`teasing`**, **`fear`**, **`disgust`** und **`crying`**.
 
 ---
 
