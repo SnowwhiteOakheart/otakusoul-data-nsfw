@@ -9,7 +9,7 @@
 - [x] Grundlegende Verzeichnisstruktur (`cards_gateway`, `stages_gateway`, `lorebooks_gateway`, `presets`, `tools`)
 - [x] Registries initialisieren (`soul_registry.json`, `stages_registry.json`, `lorebooks_registry.json`)
 - [x] Validierungswerkzeug `tools/validate_content.py` einrichten (mit NSFW- und Expressions-Prüfung)
-- [x] Privates GitHub-Repository `SnowwhiteOakheart/otakusoul-data-nsfw` verknüpfen
+- [x] Öffentliches GitHub-Repository `SnowwhiteOakheart/otakusoul-data-nsfw` verknüpfen und veröffentlichen
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Zweck für AI-Agenten:** Dieses Dokument dient als tokensparende Schnellreferenz für den FSK18-/NSFW-Inhaltsbestand (`otakusoul-data-nsfw`).
 >
-> **Stand:** Initialer Aufbau (Private Vorbereitung).
+> **Stand:** Öffentliches FSK18-Gateway (Veröffentlicht).
 
 ---
 
