@@ -16,6 +16,7 @@
 ## 1. Erste NSFW-Pakete & Charaktere
 - [x] **Mint (NTE):** FSK18-/Romance-Charakterkarte mit 11 Emotions-Platzhaltern (`presets/neverness-to-everness/mint.json` & `mint.png`, `cards_gateway/mint.png`)
 - [x] **Aoi Shirahama und Ren Kisaragi:** originale 21-jährige Berufseinsteiger in Tokio, je 15 Emotionsbilder plus Kartenporträt (`presets/tokyo-first-shift/`)
+- [x] **Albedo (Overlord):** FSK18-/Romance-Charakterkarte, Kartenporträt und 15 Emotionsbilder (`presets/overlord/`)
 - [x] Erste FSK18-Soul-Stage für Mint vorbereiten (`presets/neverness-to-everness/scenes/nachtschicht_in_hethereau.json`)
 - [x] Adulte Lorebooks für Erotik- und Romance-Begriffe anlegen (`nte_esper_intimacy.json`, `adult_romance_eroticism.json`)
 - [x] App-Markierung `extensions.otakusoul_nsfw` in allen Karten (JSON, Preset- und Gateway-PNG), Szenen und Lorebooks;

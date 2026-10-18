@@ -1,56 +1,117 @@
 # 🔞 OtakuSoul NSFW & FSK18 Inhalts-Gateway (`otakusoul-data-nsfw`)
 
-> **Hinweis:** Dieses Repository ist das offizielle FSK18- / NSFW-Inhalts-Gateway für die [OtakuSoul](https://github.com/SnowwhiteOakheart/OtakuSoul) Desktop-App.
-> Es enthält nicht-jugendfreie Anime-Geschichten (Soul Stages), Romance- und Erotik-Szenarien, adulte Lorebooks und optionale Expressions für Charaktere.
+<p align="center">
+  <strong>Das offizielle FSK18- / Adult-Inhalts-Gateway für <a href="https://github.com/SnowwhiteOakheart/OtakuSoul">OtakuSoul</a></strong><br>
+  <em>Adulte Charakterkarten · 15 Expressions · FSK18 Soul Stages · Erotik- & Romance-Lorebooks</em>
+</p>
+
+<p align="center">
+  <img alt="Altersfreigabe" src="https://img.shields.io/badge/Altersfreigabe-FSK%2018%2B%20%2F%20Adults%20Only-red?style=for-the-badge&logo=shield" />
+  <img alt="Format" src="https://img.shields.io/badge/Format-Character%20Card%20V2-f59e0b?style=for-the-badge" />
+  <img alt="Lizenz" src="https://img.shields.io/badge/Lizenz-GPLv3-22c55e?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#deutsch"><strong>🇩🇪 Deutsch</strong></a> •
+  <a href="#english"><strong>🇬🇧 English</strong></a> •
+  <a href="#русский"><strong>🇷🇺 Русский</strong></a>
+</p>
+
+---
+
+> ### ⚠️ WICHTIGER HINWEIS & ALTERSFREIGABE (18+ ONLY) / ADULT CONTENT DISCLAIMER
 > 
-> **Status:** Privater Aufbau & Kuratierung.
+> **Dieses Repository enthält nicht-jugendfreie Inhalte für Erwachsene (FSK 18+), darunter erotische Geschichten (Soul Stages), suggestive und intime Bildausdrücke (Expressions) sowie adulte Romance-Lorebooks.**
+>
+> 1. **Altersbestätigung:** Mit dem Betrachten, Klonen oder Verwenden der Inhalte dieses Repositorys bestätigst du, dass du mindestens **18 Jahre alt** bzw. nach dem Recht deines Aufenthaltsortes volljährig bist.
+> 2. **Strikte Volljährigkeit aller Figuren:** **Alle in diesem Repository dargestellten Charaktere sind ausnahmslos rein fiktiv und nachweislich volljährig (mindestens 18 Jahre alt bzw. unsterbliche adulte Wesen).**
+> 3. **Nulltoleranz beim Jugendschutz:** Jegliche Darstellung, Verherrlichung oder Befürwortung von Handlungen mit Minderjährigen (CSAM/CSAE) ist strikt verboten und ausgeschlossen.
+> 4. **Nicht-kommerziell:** Dieses Repository ist ein privates, nicht-kommerzielles Fanprojekt.
 
 ---
 
-## 🏛️ Zweck & Struktur
+<a name="deutsch"></a>
+## 🇩🇪 Deutsch
 
-Dieses Repository dient als sekundäre Hub-Quelle für OtakuSoul:
-* Das Haupt-Repository [`otakusoul-data`](https://github.com/SnowwhiteOakheart/otakusoul-data) bleibt 100 % Safe-for-Work (SFW) und jugendfrei.
-* In diesem Repository werden FSK18-Kampagnen, adulte Szenarien und freizügige Expressions gepflegt.
+### 🌸 Was ist `otakusoul-data-nsfw`?
 
-### Verzeichnisstruktur
-```text
-soul_registry.json              Index adulter Charaktere & Varianten
-stages_registry.json            Index der FSK18 Soul Stages / Szenen
-lorebooks_registry.json          Index adulter Lorebooks
-cards_gateway/*.png             Hub-fertige V2-Charakterkarten
-stages_gateway/*.json           Hub-fertige Szenendefinitionen (mit nsfw: true)
-lorebooks_gateway/*.json        Hub-fertige Lorebooks
-presets/<paket>/                Quellpakete (Expressions, Hintergründe, JSONs)
-tools/                          Validierungswerkzeuge
-AI.md                           Wegweiser für KI-Assistenten
-CONTENT_INDEX.md                Tokensparende Schnellreferenz
-ROADMAP.md                      Status & geplante NSFW-Inhalte
+Dieses Repository dient als separates, altersbeschränktes Inhalts-Gateway für die Desktop-Anwendung [OtakuSoul](https://github.com/SnowwhiteOakheart/OtakuSoul):
+* **Saubere Trennung:** Das Haupt-Repository [`otakusoul-data`](https://github.com/SnowwhiteOakheart/otakusoul-data) bleibt zu 100 % Safe-for-Work (SFW) und jugendfrei.
+* **FSK18-Gateway:** Dieses Repository sammelt kuratierte Romance- und FSK18-Inhalte, die in der OtakuSoul-App über den Schalter *„Inhalte für Erwachsene (18+)“* nach expliziter Altersbestätigung aktiviert werden können.
+
+### 🏛️ Inhaltsübersicht
+
+| Universum / Paket (`presets/`) | Franchise / Vorlage | Enthaltene Charaktere | Soul Stages (Szenen) | Lorebooks |
+|---|---|---|---|---|
+| `neverness-to-everness` | Neverness to Everness (NTE) | **Mint** *(21 Jahre, Esperin, CSU-2)* | `Nachtschicht in Hethereau` | `Neverness to Everness – Esper-Intimität` |
+| `no-game-no-life` | No Game No Life (NGNL) | **Jibril** *(6.400+ Jahre, Flügel)* | *(in Vorbereitung)* | - |
+| `overlord` | Overlord | **Albedo** *(Sukkubus, Aufseherin)* | *(in Vorbereitung)* | - |
+| `tokyo-first-shift` | Original (Tokio, 21 Jahre) | **Aoi Shirahama** *(Nachtproducerin)*<br>**Ren Kisaragi** *(Nachtbarkeeper)* | *(in Vorbereitung)* | - |
+| `shared` | Universell / Übergreifend | - | - | `Adulte Romance & Erotik` *(7 Intimitätsbegriffe)* |
+
+### 🎭 Das 15-teilige Expressions-System
+
+Charaktere in diesem Repository verfügen über bis zu **15 standardisierte Expressions** (WebP, 640×800 Pixel) für feinfühlige visuelle Reaktionen im Chat:
+* **Standard-Basis (6):** `neutral`, `happy`, `relaxed`, `surprised`, `angry`, `sad`
+* **Romance- & Intimitäts-Stufen (5):** `blush`, `seductive`, `aroused`, `ecstasy`, `afterglow`
+* **Erweiterte Nuancen (4):** `teasing`, `fear`, `disgust`, `crying`
+
+### 🔒 App-Sicherheitsmarkierung (`otakusoul_nsfw`)
+
+Alle Karten (`data.extensions`), Szenen und Lorebooks (`extensions`) tragen die Markierung:
+```json
+"otakusoul_nsfw": true
 ```
+Die OtakuSoul-App filtert diese Inhalte automatisch aus, solange der Schalter für Volljährigeninhalte deaktiviert ist – selbst bei lokalem Datei-Import.
+
+### ⚖️ Markenhinweise & Disclaimer
+* **Neverness to Everness (NTE):** © Hotta Studio / Perfect World Games.
+* **No Game No Life:** © Yuu Kamiya / Kadokawa Corporation / Media Factory.
+* **Overlord:** © Kugane Maruyama / so-bin / Kadokawa Corporation / Enterbrain.
+* **Tokyo First Shift:** © 2026 SnowwhiteOakheart.
+Alle genannten Marken, Namen und Originalfiguren gehören den jeweiligen Rechteinhabern. Dieses Projekt steht in keiner geschäftlichen Verbindung zu den Rechteinhabern.
 
 ---
 
-## 🎭 Erweiterte Erotik- & Romance-Emotionen
+<a name="english"></a>
+## 🇬🇧 English
 
-Karten in diesem Repository können neben den 6 Standard-Emotionen (`neutral`, `happy`, `relaxed`, `surprised`, `angry`, `sad`) auch die erweiterten Romance-/NSFW-Ausdrücke mitbringen:
-* **`blush`:** Starkes Erröten, Verlegenheit, Scham
-* **`seductive`:** Verführerischer Blick, herausforderndes Lächeln
-* **`aroused`:** Körperliche Erregung, beschleunigter Atem
-* **`ecstasy`:** Lustempfinden, Höhepunkt, überwältigte Mimik
-* **`afterglow`:** Erschöpfte Zufriedenheit, Post-Coital-Entspannung
-* Dazu die Nischen-Schlüssel **`teasing`**, **`fear`**, **`disgust`** und **`crying`**.
+### 🌸 About `otakusoul-data-nsfw`
+
+This repository serves as the official age-gated adult content gateway for the [OtakuSoul](https://github.com/SnowwhiteOakheart/OtakuSoul) desktop application:
+* **Strict Separation:** The primary content repository [`otakusoul-data`](https://github.com/SnowwhiteOakheart/otakusoul-data) remains 100% Safe-for-Work (SFW).
+* **Adult Gateway:** This repository contains mature (18+) romance scenarios, suggestive character cards with extended expression sets, and intimacy-focused lorebooks.
+* **Age Verification:** In the OtakuSoul application, adult content is only visible when the user enables *"Adult Content (18+)"* following an explicit age confirmation.
+
+### 🎭 Technical Specifications
+* **Card Format:** Tavern / OtakuSoul Character Card V2 (`chara` PNG chunk & JSON).
+* **15 Expression Sprites:** 6 core emotions + 5 romance/NSFW states (`blush`, `seductive`, `aroused`, `ecstasy`, `afterglow`) + 4 situational moods (`teasing`, `fear`, `disgust`, `crying`).
+* **Trilingual:** All cards, dialogues, and stages are authored with full German (DE), English (EN), and Russian (RU) localizations.
+
+### ⚖️ Legal & Trademarks
+All depicted characters are **purely fictional adults (aged 18 or older)**. Any sexual depiction of minors is strictly prohibited. All third-party trademarks and copyrighted characters belong to their respective creators and publishers.
 
 ---
 
-## 🔞 Kennzeichnung für die App
+<a name="русский"></a>
+## 🇷🇺 Русский
 
-Alle Karten, Szenen und Lorebooks tragen `extensions.otakusoul_nsfw: true`. OtakuSoul lädt diese Quelle nur nach
-einmaliger Altersbestätigung und aktiviertem „Inhalte für Erwachsene (18+)“ und blendet markierte Inhalte aus, solange
-die Option aus ist.
+### 🌸 О репозитории `otakusoul-data-nsfw`
 
-## 🛠️ Validierung vor jedem Commit
+Этот репозиторий является официальным шлюзом контента категории 18+ для настольного приложения [OtakuSoul](https://github.com/SnowwhiteOakheart/OtakuSoul):
+* **Разделение контента:** Основной репозиторий [`otakusoul-data`](https://github.com/SnowwhiteOakheart/otakusoul-data) остаётся строго безопасным для работы (SFW).
+* **Шлюз для взрослых:** Здесь размещены романтические и эротические сцены (Soul Stages), карточки персонажей со взрослыми эмоциями и интимные лорбуки.
+* **Все персонажи строго совершеннолетние (18+):** Все представленные персонажи вымышлены и достигли совершеннолетия (не менее 18 лет либо являются взрослыми бессмертными существами).
+
+---
+
+## 🛠️ Validierung vor jedem Commit / Verification
 
 ```sh
 python3 tools/validate_content.py
 python3 tools/validate_content.py --sync-registry
 ```
+
+## 📜 Lizenz / License
+
+Eigene Skripte (`tools/`), Dokumentationen und Originaltexte stehen unter der **GNU General Public License v3.0** (`GPL-3.0-only`). Details und Fanart-Hinweise siehe [`LICENSE`](LICENSE).

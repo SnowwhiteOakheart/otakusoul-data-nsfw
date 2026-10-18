@@ -12,6 +12,7 @@
 |---|---|---|---|---|
 | `neverness-to-everness` | Neverness to Everness (NTE) | `Mint` *(Sinnliche Spürnase)* | `Nachtschicht in Hethereau` (`nachtschicht_in_hethereau.json`) | `Neverness to Everness – Esper-Intimität` (`nte_esper_intimacy.json`) |
 | `no-game-no-life` | No Game No Life (NGNL) | `Jibril` *(Devote Flügel-Bibliothekarin)* | *(in Vorbereitung)* | - |
+| `overlord` | Overlord | `Albedo` *(Besessene Wächteraufseherin)* | *(in Vorbereitung)* | - |
 | `tokyo-first-shift` | Original, Tokio, erster Job | `Aoi Shirahama` *(Nachtproducerin)*, `Ren Kisaragi` *(Nachtbarkeeper)* | *(in Vorbereitung)* | - |
 | `shared` | Universell / Übergreifend | - | - | `Adulte Romance & Erotik` (`adult_romance_eroticism.json`) |
 

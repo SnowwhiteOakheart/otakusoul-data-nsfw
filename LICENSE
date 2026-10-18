@@ -9,11 +9,11 @@ DEUTSCH
 ================================================================================
 
 1. Umfang, eigene Beiträge und Credits
-Dieses Repository (`SnowwhiteOakheart/otakusoul-data`) ist das separate
-Inhaltsrepository für OtakuSoul (https://github.com/SnowwhiteOakheart/OtakuSoul).
+Dieses Repository (`SnowwhiteOakheart/otakusoul-data-nsfw`) ist das separate,
+altersbeschränkte Inhaltsrepository für OtakuSoul (https://github.com/SnowwhiteOakheart/OtakuSoul).
 Es enthält KI-generierte Fanart, KI-unterstützte Texte (Charakterkarten,
-Stage-Geschichten/Szenen, Lorebooks, Sprachdateien), selbst entworfene
-Originalfiguren, Modellempfehlungen sowie Verweise auf separat bezogene Assets.
+Stage-Geschichten/Szenen, Lorebooks, Sprachdateien) für den FSK18-/NSFW-Bereich,
+selbst entworfene Originalfiguren sowie Verweise auf separat bezogene Assets.
 Es ist ein unabhängiges, nicht-kommerzielles Fanprojekt, kein offizielles
 Produkt und keine behauptete Zusammenarbeit mit Rechteinhabern der
 dargestellten Werke.
@@ -33,13 +33,13 @@ Diese Lizenz erteilt keine Rechte an fremden Figuren, Vorlagen, Marken oder
 separat lizenzierten Assets. Bestehende speziellere Lizenzhinweise haben Vorrang.
 
 2. KI-generierte Bilder und Fanart
-Die Charakterporträts, Emotionsbilder und Szenenhintergründe wurden mit
+Die Charakterporträts, Expressions und Szenenhintergründe wurden mit
 generativer KI angefertigt; Werkzeug, Prompts und Referenzen sind in der
-jeweiligen Paketdokumentation bzw. den Promptdateien (`image_prompts.json`,
-`prompts.json`, `AVATAR-PROMPTS.md`, `BACKGROUND-PROMPTS.md`) vermerkt. Sie sind
-keine offiziellen Illustrationen der zugrunde liegenden Anime-/Spielwerke.
-Originalfiguren wie Ren Takahashi und Aoi Mizuno (Aobane Highschool) sind
-eigenständige Entwürfe, keine Figuren eines bestehenden Anime.
+jeweiligen Paketdokumentation vermerkt. Sie sind keine offiziellen
+Illustrationen der zugrunde liegenden Anime-/Spielwerke.
+Originalfiguren wie Aoi Shirahama und Ren Kisaragi (Tokyo First Shift,
+volljährige 21-jährige Berufseinsteiger) sind eigenständige Entwürfe, keine
+Figuren eines bestehenden Anime.
 
 Soweit die Beitragenden Rechte an eigenen KI-Bildern, deren Auswahl oder deren
 eigener Bearbeitung besitzen, erlauben sie Nutzung, Kopie, Änderung und
@@ -48,7 +48,7 @@ Damit wird weder behauptet, dass rein KI-generierte Bilder überall
 urheberrechtlich geschützt sind, noch dass KI-Erzeugung bestehende Rechte an
 dargestellten Figuren oder Vorlagen aufhebt.
 
-3. Fremde Rechte, Marken und separate Assets
+3. Fremde Rechte und Marken
 Rechte an zugrunde liegenden Anime-/Spielwerken, Figuren, Titeln, Namen, Logos
 und Marken verbleiben bei den jeweiligen Urhebern und Verlagen (siehe die
 Markenübersicht in `README.md`). Dieses Repository kann diese Rechte nicht
@@ -56,39 +56,38 @@ lizenzieren. Auch die Bezeichnung als Fanart gewährt keine pauschale
 Nutzungserlaubnis. Für eine Nutzung solcher Inhalte — insbesondere kommerzielle
 Nutzung — sind erforderliche Rechte separat zu klären.
 
-- VRM-Modelle: Community-VRM-Modelle werden aus lizenzrechtlichen Gründen nicht
-  im Git-Repository versioniert (`.gitignore`) und unterliegen ihren jeweiligen
-  VRoid-Hub-Bedingungen; siehe `avatars/vrm/lizenzen.txt`.
-- Modellempfehlungen (`recommended_models.json`): Enthält ausschließlich
-  Metadaten und Prüfwerte frei lizenzierter Sprachmodelle (Apache-2.0, MIT, BSD)
-  auf Hugging Face, keine Modellgewichte.
-- 5e-Regelbezüge: Soweit Stage-Szenen optional auf 5e-Regeln der Haupt-App
-  verweisen, beruhen diese im App-Repository auf dem System Reference Document
-  5.1 (SRD 5.1, Wizards of the Coast LLC, lizenziert unter CC-BY-4.0).
-
 Quellenangaben, KI-Herkunft und spezielle Lizenzhinweise sind bei Weitergabe zu
 erhalten.
 
-4. Gewährleistung und Kontakt
+4. FSK18- / Adult-Inhalte und Volljährigkeit (18+)
+Dieses Repository enthält nicht-jugendfreie Inhalte (Erotik, Romance, FSK18+).
+Sämtliche dargestellten Charaktere sind rein fiktiv und ausnahmslos volljährig
+(mindestens 18 Jahre alt bzw. erwachsene Fantasy-Wesen). Die Darstellung oder
+Verbreitung von Inhalten, die Minderjährige sexualisieren (CSAM/CSAE), ist
+strikt ausgeschlossen und verboten. Zugriff und Nutzung sind ausschließlich
+Personen gestattet, die nach dem Recht ihres Aufenthaltsortes das gesetzliche
+Mindestalter für volljährige Inhalte (mindestens 18 Jahre) erreicht haben.
+
+5. Gewährleistung und Kontakt
 Die Bereitstellung erfolgt ohne jede Gewährleistung im gesetzlich zulässigen
 Umfang gemäß den Abschnitten 15 und 16 der unten stehenden GNU GPLv3. Es wird
 insbesondere keine Garantie für Rechtefreiheit, Exklusivität oder Eignung für
 einen bestimmten Zweck gegeben. Rechteinhaber können konkrete Beanstandungen mit
 Dateipfad und Nachweis über die Issues dieses Repositorys melden:
-https://github.com/SnowwhiteOakheart/otakusoul-data/issues
+https://github.com/SnowwhiteOakheart/otakusoul-data-nsfw/issues
 
 ================================================================================
 ENGLISH
 ================================================================================
 
 1. Scope, original contributions and credits
-This repository (`SnowwhiteOakheart/otakusoul-data`) is the separate content
-repository for OtakuSoul (https://github.com/SnowwhiteOakheart/OtakuSoul). It
-contains AI-generated fan art, AI-assisted texts (character cards, Stage
-stories/scenes, lorebooks, language files), original character designs, model
-recommendations and references to separately sourced assets. It is an
-independent, non-commercial fan project; no affiliation with or endorsement by
-the rights holders of the depicted works is claimed.
+This repository (`SnowwhiteOakheart/otakusoul-data-nsfw`) is the separate,
+age-gated content repository for OtakuSoul (https://github.com/SnowwhiteOakheart/OtakuSoul).
+It contains AI-generated fan art, AI-assisted texts (character cards, Stage
+stories/scenes, lorebooks, language files) designated for the 18+/NSFW tier,
+original character designs, and references to separately sourced assets. It is
+an independent, non-commercial fan project; no affiliation with or endorsement
+by the rights holders of the depicted works is claimed.
 
 In line with the main OtakuSoul project, original maintenance scripts (`tools/`),
 documentation, original texts, translations, configurations and other original
@@ -104,13 +103,12 @@ This license does not grant rights in third-party characters, source works,
 trademarks or separately licensed assets. Specific license notices take priority.
 
 2. AI-generated images and fan art
-Character portraits, expression images and scene backgrounds were generated with
-AI; tools, prompts and references are recorded in the package documentation or
-prompt files (`image_prompts.json`, `prompts.json`, `AVATAR-PROMPTS.md`,
-`BACKGROUND-PROMPTS.md`). They are not official illustrations of the underlying
-anime/game works. Original characters such as Ren Takahashi and Aoi Mizuno
-(Aobane Highschool) are independent designs, not characters from an existing
-anime.
+Character portraits, expression sprites and scene backgrounds were generated
+with AI; tools, prompts and references are recorded in the package documentation.
+They are not official illustrations of the underlying anime/game works.
+Original characters such as Aoi Shirahama and Ren Kisaragi (Tokyo First Shift,
+adult 21-year-old professionals) are independent designs, not characters from an
+existing anime.
 
 To the extent contributors hold rights in their own AI images, selection or
 original edits, they permit use, copying, modification and redistribution under
@@ -118,46 +116,45 @@ the GNU GPLv3 (`GPL-3.0-only`) terms below. This neither asserts universal
 copyright protection for purely AI-generated output nor removes existing rights
 in depicted characters and source works.
 
-3. Third-party rights, trademarks and separate assets
+3. Third-party rights and trademarks
 Rights in underlying anime/games, characters, titles, names, logos and
 trademarks remain with their respective creators and publishers (see the
 trademark overview in `README.md`). This repository cannot license those rights.
 Calling an image fan art does not grant blanket permission to use it. Required
 permissions, particularly for commercial use, must be obtained separately.
 
-- VRM models: Community VRM models are not tracked in the git repository
-  (`.gitignore`) for licensing reasons and remain subject to their respective
-  VRoid Hub terms; see `avatars/vrm/lizenzen.txt`.
-- Model recommendations (`recommended_models.json`): Contains only metadata and
-  checksums for freely licensed language models (Apache-2.0, MIT, BSD) on
-  Hugging Face, no model weights.
-- 5e rule references: Where Stage scenes optionally reference 5e rules in the
-  main app, those rules are based on the System Reference Document 5.1 (SRD 5.1,
-  Wizards of the Coast LLC, licensed under CC-BY-4.0).
-
 Preserve attribution, AI-origin information and specific license notices when
 redistributing.
 
-4. Warranty and contact
+4. 18+ Adult Content and Legal Age (18+)
+This repository contains adult, sexually suggestive, and erotic content (18+).
+All depicted characters are purely fictional and strictly adults (at least 18
+years of age or adult fantasy beings). Any content that depicts or promotes the
+sexualization of minors (CSAM/CSAE) is strictly prohibited. Access and use are
+permitted solely to individuals who have reached the legal age of majority for
+adult content (at least 18 years of age) under the laws of their jurisdiction.
+
+5. Warranty and contact
 Materials are provided without warranty to the extent permitted by applicable
 law, pursuant to Sections 15 and 16 of the GNU GPLv3 below, including without
 any assurance of rights clearance, exclusivity or fitness for a particular
 purpose. Rights holders may report a specific concern, identifying the file and
 relevant rights, through:
-https://github.com/SnowwhiteOakheart/otakusoul-data/issues
+https://github.com/SnowwhiteOakheart/otakusoul-data-nsfw/issues
 
 ================================================================================
 РУССКИЙ
 ================================================================================
 
 1. Область применения, собственные материалы и благодарности
-Этот репозиторий (`SnowwhiteOakheart/otakusoul-data`) является отдельным
-репозиторием контента для OtakuSoul (https://github.com/SnowwhiteOakheart/OtakuSoul).
-Он содержит созданный ИИ фан-арт, подготовленные с помощью ИИ тексты (карточки
-персонажей, истории/сцены Stage, лорбуки, языковые файлы), оригинальных
-персонажей, рекомендации моделей и ссылки на отдельно получаемые ресурсы. Это
-независимый некоммерческий фан-проект; связь с правообладателями исходных
-произведений или их одобрение не заявляются.
+Этот репозиторий (`SnowwhiteOakheart/otakusoul-data-nsfw`) является отдельным,
+возрастно ограниченным репозиторием контента для OtakuSoul
+(https://github.com/SnowwhiteOakheart/OtakuSoul). Он содержит созданный ИИ
+фан-арт, подготовленные с помощью ИИ тексты (карточки персонажей,
+истории/сцены Stage, лорбуки, языковые файлы) категории 18+/NSFW, оригинальных
+персонажей и ссылки на отдельно получаемые ресурсы. Это независимый
+некоммерческий фан-проект; связь с правообладателями исходных произведений или
+их одобрение не заявляются.
 
 Аналогично основному проекту OtakuSoul, собственные скрипты обслуживания
 (`tools/`), документация, оригинальные тексты, переводы, конфигурации и другие
@@ -174,12 +171,12 @@ https://github.com/SnowwhiteOakheart/otakusoul-data/issues
 уведомления имеют приоритет.
 
 2. Изображения ИИ и фан-арт
-Портреты персонажей, эмоции и фоны сцен созданы генеративным ИИ; инструменты,
-промпты и референсы указаны в документации наборов или файлах промптов
-(`image_prompts.json`, `prompts.json`, `AVATAR-PROMPTS.md`,
-`BACKGROUND-PROMPTS.md`). Это не официальные иллюстрации исходных аниме или игр.
-Оригинальные персонажи, такие как Ren Takahashi и Aoi Mizuno (Aobane Highschool),
-являются самостоятельными разработками, а не героями существующего аниме.
+Портреты персонажей, спрайты эмоций и фоны сцен созданы генеративным ИИ;
+инструменты, промпты и референсы указаны в документации наборов. Это не
+официальные иллюстрации исходных аниме или игр. Оригинальные персонажи, такие
+как Аой Сирахама и Рэн Кисараги (Tokyo First Shift, совершеннолетние 21-летние
+специалисты), являются самостоятельными разработками, а не героями
+существующего аниме.
 
 В пределах принадлежащих им прав на собственные изображения ИИ, их отбор или
 оригинальную обработку авторы разрешают использование, копирование, изменение и
@@ -188,33 +185,31 @@ https://github.com/SnowwhiteOakheart/otakusoul-data/issues
 отменяет существующие права на изображённых персонажей или исходные
 произведения.
 
-3. Права третьих лиц, товарные знаки и отдельные ресурсы
+3. Права третьих лиц и товарные знаки
 Права на исходные аниме, игры, персонажей, названия, логотипы и товарные знаки
 сохраняются за их авторами и издателями (см. перечень правообладателей в
 `README.md`); этот репозиторий их не лицензирует. Обозначение «фан-арт» не даёт
 общего разрешения на использование. Необходимые разрешения, особенно для
 коммерческого использования, следует получать отдельно.
 
-- VRM-модели: пользовательские VRM-модели по лицензионным причинам не хранятся в
-  git-репозитории (`.gitignore`) и подчиняются условиям VRoid Hub; см.
-  `avatars/vrm/lizenzen.txt`.
-- Рекомендации моделей (`recommended_models.json`): файл содержит только
-  метаданные и контрольные суммы свободно лицензированных языковых моделей
-  (Apache-2.0, MIT, BSD) на Hugging Face, без весов моделей.
-- Ссылки на правила 5e: если сцены Stage опционально используют правила 5e
-  основного приложения, эти правила основаны на System Reference Document 5.1
-  (SRD 5.1, Wizards of the Coast LLC, лицензия CC-BY-4.0).
-
 При распространении сохраняйте сведения об источниках, использовании ИИ и
 специальные лицензионные уведомления.
 
-4. Гарантии и связь
+4. Контент для взрослых (18+) и совершеннолетие
+Этот репозиторий содержит материалы для взрослых (эротика, романтика, 18+). Все
+изображённые персонажи являются исключительно вымышленными и строго
+совершеннолетними (не менее 18 лет либо взрослыми мифическими существами).
+Любой контент, сексуализирующий несовершеннолетних (CSAM/CSAE), строго запрещён.
+Доступ и использование разрешены только лицам, достигшим установленного законом
+возраста совершеннолетия для материалов категории 18+.
+
+5. Гарантии и связь
 Материалы предоставляются без каких-либо гарантий в пределах, допускаемых
 применимым законодательством, согласно разделам 15 и 16 приведённой ниже
 лицензии GNU GPLv3, в том числе без гарантий наличия всех прав,
 исключительности или пригодности для конкретной цели. Правообладатели могут
 сообщить о конкретной проблеме, указав путь к файлу и подтверждение прав:
-https://github.com/SnowwhiteOakheart/otakusoul-data/issues
+https://github.com/SnowwhiteOakheart/otakusoul-data-nsfw/issues
 
 ================================================================================
 GNU GENERAL PUBLIC LICENSE TERMS — applicable within the scope described above
@@ -853,7 +848,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    otakusoul-data - Content, Character Cards, Lorebooks & Stage Stories for OtakuSoul
+    otakusoul-data-nsfw - FSK18 / NSFW Content, Character Cards, Lorebooks & Stage Stories for OtakuSoul
     Copyright (C) 2026  SnowwhiteOakheart
 
     This program is free software: you can redistribute it and/or modify
