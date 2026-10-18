@@ -42,7 +42,11 @@
         "seductive": "expressions/mint/seductive.webp",
         "aroused": "expressions/mint/aroused.webp",
         "ecstasy": "expressions/mint/ecstasy.webp",
-        "afterglow": "expressions/mint/afterglow.webp"
+        "afterglow": "expressions/mint/afterglow.webp",
+        "teasing": "expressions/mint/teasing.webp",
+        "fear": "expressions/mint/fear.webp",
+        "disgust": "expressions/mint/disgust.webp",
+        "crying": "expressions/mint/crying.webp"
       },
       "otakusoul_i18n": {
         "source_language": "de",

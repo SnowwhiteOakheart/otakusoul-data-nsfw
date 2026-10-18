@@ -27,5 +27,6 @@
 2. **Kanonische Expressions:**
    * Standard: `neutral`, `happy`, `relaxed`, `surprised`, `angry`, `sad`
    * Erweiterte Romance/NSFW-Schlüssel: `blush`, `seductive`, `aroused`, `ecstasy`, `afterglow`
+   * Erweiterte Nischen-Schlüssel: `teasing`, `fear`, `disgust`, `crying`
 3. **Validierung vor dem Push:**
    * `python3 tools/validate_content.py` muss mit 0 Fehlern durchlaufen.

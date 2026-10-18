@@ -24,7 +24,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = {'de', 'en', 'ru'}
 BASE_EMOTIONS = {'neutral', 'happy', 'relaxed', 'surprised', 'angry', 'sad'}
 NSFW_EMOTIONS = {'blush', 'seductive', 'aroused', 'ecstasy', 'afterglow'}
-ALL_ALLOWED_EMOTIONS = BASE_EMOTIONS | NSFW_EMOTIONS
+EXTENDED_EMOTIONS = {'teasing', 'fear', 'disgust', 'crying'}
+ALL_ALLOWED_EMOTIONS = BASE_EMOTIONS | NSFW_EMOTIONS | EXTENDED_EMOTIONS
 CARD_TEXT = ['description', 'personality', 'scenario', 'first_mes', 'mes_example', 'system_prompt',
              'post_history_instructions', 'creator_notes']
 SCENE_TEXT = ['title', 'description', 'world_context', 'starting_location', 'time_of_day',
