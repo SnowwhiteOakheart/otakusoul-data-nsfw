@@ -8,6 +8,14 @@
       "revision": 1,
       "updated": "2026-10-18",
       "nsfw": true
+    },
+    {
+      "name": "Jibril",
+      "author": "SnowwhiteOakheart",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/jibril.png",
+      "revision": 1,
+      "updated": "2026-10-18",
+      "nsfw": true
     }
   ]
 }
