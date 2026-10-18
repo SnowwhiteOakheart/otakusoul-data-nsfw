@@ -10,7 +10,8 @@
 
 | Paket (`presets/<id>`) | Franchise / Setting | Charaktere (`soul_registry.json`) | Soul Stages (`stages_gateway/*.json`) | Aktive Lorebooks (`lorebooks_gateway/*.json`) |
 |---|---|---|---|---|
-| *(im Aufbau)* | - | - | - | - |
+| `neverness-to-everness` | Neverness to Everness (NTE) | `Mint` *(Sinnliche Spürnase)* | *(in Vorbereitung)* | - |
+
 
 ---
 
