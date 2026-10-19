@@ -22,6 +22,7 @@
 - [x] App-Markierung `extensions.otakusoul_nsfw` in allen Karten (JSON, Preset- und Gateway-PNG), Szenen und Lorebooks;
   Validator meldet fehlende Markierung als Fehler
 - [x] Mint: Alter ausdrücklich volljährig (21) in allen Sprachen
-- [ ] Integration mit der OtakuSoul-App (Multi-Hub) testen – App-Seite fertig (18+-Schalter, zweite Hub-Quelle), echter
-  Test sobald das Repository öffentlich erreichbar ist
+- [x] Integration mit der OtakuSoul-App (Multi-Hub) testen – Live-Test mit öffentlichem Repository
+  in `modules::hub::tests::nsfw_hub_live_registry_check` erfolgreich verifiziert.
+
 
