@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "collections": [
+    {
+      "id": "neverness_to_everness_18",
+      "title": "Neverness to Everness (18+)",
+      "author": "SnowwhiteOakheart",
+      "description": "Hethereau bei Nacht: Mint, Anomalie-Ermittlerin der CSU-2, und was nach Dienstschluss geschieht.",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/neverness-to-everness/cover.webp",
+      "lorebooks": [
+        "Neverness to Everness – Esper-Intimität",
+        "Adulte Romance & Erotik"
+      ],
+      "scenes": [
+        "nachtschicht_in_hethereau"
+      ],
+      "characters": [
+        "Mint"
+      ],
+      "revision": 1,
+      "updated": "2026-10-25",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "Hethereau by night: Mint, anomaly investigator of the CSU-2, and what happens after hours."
+        },
+        "ja": {
+          "description": "夜のヘテロー。CSU-2の異常調査員ミントと、勤務明けのひととき。"
+        },
+        "ru": {
+          "description": "Хетеро ночью: Минт, следователь по аномалиям CSU-2, и то, что происходит после смены."
+        }
+      }
+    },
+    {
+      "id": "tokyo_first_shift",
+      "title": "Tokyo First Shift",
+      "author": "SnowwhiteOakheart",
+      "description": "Nach der Spätschicht in Ginza: Radioproduzentin Aoi und Barkeeper Ren kommen sich näher.",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/tokyo-first-shift/cover.webp",
+      "lorebooks": [
+        "Adulte Romance & Erotik"
+      ],
+      "scenes": [],
+      "characters": [
+        "Aoi Shirahama",
+        "Ren Kisaragi"
+      ],
+      "revision": 1,
+      "updated": "2026-10-25",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "After the late shift in Ginza: radio producer Aoi and bartender Ren grow closer."
+        },
+        "ja": {
+          "description": "銀座の遅番明け。ラジオプロデューサーの葵とバーテンダーの蓮が距離を縮めていく。"
+        },
+        "ru": {
+          "description": "После поздней смены в Гиндзе: радиопродюсер Аой и бармен Рэн сближаются."
+        }
+      }
+    },
+    {
+      "id": "no_game_no_life_18",
+      "title": "No Game No Life (18+)",
+      "author": "SnowwhiteOakheart",
+      "description": "Jibril als Fassung für Erwachsene – die Bibliothekarin von Disboard ohne Zurückhaltung.",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/no-game-no-life/cover.webp",
+      "lorebooks": [],
+      "scenes": [],
+      "characters": [
+        "Jibril"
+      ],
+      "revision": 1,
+      "updated": "2026-10-25",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "Jibril in an adult version – the librarian of Disboard without restraint."
+        },
+        "ja": {
+          "description": "成人向けのジブリール。遠慮を知らないディスボードの司書。"
+        },
+        "ru": {
+          "description": "Джибрил во взрослой версии – библиотекарь Дисборда без сдержанности."
+        }
+      }
+    },
+    {
+      "id": "overlord_18",
+      "title": "Overlord (18+)",
+      "author": "SnowwhiteOakheart",
+      "description": "Albedo als Fassung für Erwachsene – die Wächterin von Nazarick und ihre Hingabe.",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/overlord/cover.webp",
+      "lorebooks": [],
+      "scenes": [],
+      "characters": [
+        "Albedo"
+      ],
+      "revision": 1,
+      "updated": "2026-10-25",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "Albedo in an adult version – the Guardian Overseer of Nazarick and her devotion."
+        },
+        "ja": {
+          "description": "成人向けのアルベド。ナザリックの守護者統括とその献身。"
+        },
+        "ru": {
+          "description": "Альбедо во взрослой версии – хранительница Назарика и её преданность."
+        }
+      }
+    },
+    {
+      "id": "adult_romance",
+      "title": "Adulte Romance & Erotik",
+      "author": "SnowwhiteOakheart",
+      "description": "Das gemeinsame Lorebook für erwachsene Romance-Geschichten, nutzbar mit jeder Figur.",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/shared/cover.webp",
+      "lorebooks": [
+        "Adulte Romance & Erotik"
+      ],
+      "scenes": [],
+      "characters": [],
+      "revision": 1,
+      "updated": "2026-10-25",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "The shared lorebook for adult romance stories, usable with any character.",
+          "title": "Adult Romance & Eroticism"
+        },
+        "ja": {
+          "description": "あらゆるキャラクターで使える、大人向けロマンス共通のLorebook。",
+          "title": "大人のロマンス＆エロティシズム"
+        },
+        "ru": {
+          "description": "Общий лорбук для взрослых романтических историй, подходит для любого персонажа.",
+          "title": "Эротика и романтика для взрослых"
+        }
+      }
+    }
+  ]
+}

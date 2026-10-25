@@ -23,6 +23,7 @@ stages_registry.json             Szenenindex (mit nsfw: true)
 stages_gateway/*.json            Hub-fertige FSK18-Szenen
 lorebooks_registry.json          Lorebook-Index (mit nsfw: true)
 lorebooks_gateway/*.json         Hub-fertige Lorebooks
+collections_registry.json        Sammlungen je Paket mit Titelbild (mit nsfw: true)
 presets/<paket>/                 Quellpakete (JSONs, Expressions, Hintergründe)
 tools/validate_content.py        Validierungswerkzeug
 ```
@@ -31,6 +32,7 @@ tools/validate_content.py        Validierungswerkzeug
 
 1. **Registries:**
    * Jeder Eintrag in `soul_registry.json`, `stages_registry.json` und `lorebooks_registry.json` trägt `"nsfw": true`.
+   * `collections_registry.json` (Aufbau wie im Haupt-Repository: `id`, `title`, `description`, `cover_url` auf `presets/<paket>/cover.webp`, `lorebooks`/`scenes`/`characters` als Registry-Schlüssel) fasst die Inhalte eines Pakets im Hub zu einer Karte zusammen. Neue Figuren, Szenen oder Lorebooks eines Pakets dort mit eintragen; die App bevorzugt bei gleichen Namen (z. B. Jibril, Albedo, Mint) die Einträge dieses Repositorys.
    * Wie im Haupt-Repository gilt: Bei jeder inhaltlichen Änderung `revision` um 1 erhöhen und `updated` auf das Tagesdatum setzen.
 2. **Szenen (`stages_gateway/*.json`):**
    * Unter `extensions.otakusoul_story`:
