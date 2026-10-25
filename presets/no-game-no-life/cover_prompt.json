@@ -1,0 +1,15 @@
+{
+  "asset": "cover.webp",
+  "size": [
+    960,
+    540
+  ],
+  "generator": "OpenAI image_gen (integriertes Bildwerkzeug)",
+  "generated": "2026-10-25",
+  "prompt": "Use case: illustration-story. Create ONE polished landscape 16:9 story collection cover, no text, logo, watermark, no panels. Adult winged librarian Jibril with long pink hair, golden eyes and halo, recognizable reference face. Wearing an elegant fully covering high-neck white and purple floor-length fantasy gown, holding an ancient book in a vast luminous magical library of Disboard, floating shelves, sunset through gothic arches, mysterious romantic fantasy mood. Eye-level dignified portrait integrated into expansive library. No erotic pose. Several characters where listed, background visibly occupies at least half the frame, compelling thumbnail composition, faces safely within margins. No nudity or sexual content.",
+  "references": [
+    "presets/no-game-no-life/jibril.png"
+  ],
+  "postprocessing": "Mittig auf 16:9 zugeschnitten und mit Lanczos auf 960×540 skaliert; WebP Qualität 92.",
+  "provenance": "KI-generiertes Titelbild; Figuren und Schauplätze anhand vorhandener Paketbilder. Bestehende Rechte- und Fanart-Hinweise gelten weiterhin."
+}

@@ -1,0 +1,16 @@
+{
+  "asset": "cover.webp",
+  "size": [
+    960,
+    540
+  ],
+  "generator": "OpenAI image_gen (integriertes Bildwerkzeug)",
+  "generated": "2026-10-25",
+  "prompt": "Use case: illustration-story. Create a polished landscape 16:9 anime collection cover for Neverness to Everness. Subject: Mint, a 21-year-old adult supernatural city investigator with long turquoise hair, cat ears, fluffy turquoise tail and pink eyes. She wears a practical fully zipped teal field jacket, dark full-length trousers and gloves, holding a small anomaly detector. Eye-level waist-up three-quarter portrait in a vast rain-soaked Hethereau street at night, glowing cyan anomaly trail along the pavement, warm late-night cafe windows, neon reflections, supernatural urban mystery. Confident friendly expression. Detailed cinematic environment occupies at least half the frame. Fully clothed adventure illustration. No text, logos, watermarks. Single coherent scene.",
+  "references": [
+    "presets/neverness-to-everness/mint.json"
+  ],
+  "postprocessing": "Mittig auf 16:9 zugeschnitten und mit Lanczos auf 960×540 skaliert; WebP Qualität 92.",
+  "provenance": "KI-generiertes Titelbild; Figuren und Schauplätze anhand vorhandener Paketbilder. Bestehende Rechte- und Fanart-Hinweise gelten weiterhin.",
+  "reference_usage": "Textuelle Figurenbeschreibung; keine Bildreferenz an das Generierungswerkzeug übergeben."
+}

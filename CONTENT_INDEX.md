@@ -36,3 +36,7 @@
    * Erweiterte Nischen-Schlüssel: `teasing`, `fear`, `disgust`, `crying`
 4. **Validierung vor dem Push:**
    * `python3 tools/validate_content.py` muss mit 0 Fehlern durchlaufen.
+
+## Paket-Titelbilder
+
+Die fünf Pakete `neverness-to-everness`, `no-game-no-life`, `overlord`, `tokyo-first-shift` und `shared` enthalten jeweils `cover.webp` (960×540) und den Generierungsnachweis `cover_prompt.json`. Die Titelbilder sind atmosphärische, nicht explizite KI-Illustrationen. Bei Paketen mit nur einer Figur zeigt das Cover diese Figur und ihren Schauplatz; das gemeinsame Romance-Lorebook verwendet die originalen erwachsenen Figuren Aoi und Ren. Die Bilder sind als Paketassets vorbereitet; dieses Repository besitzt bislang keine Sammlungs-Registry.

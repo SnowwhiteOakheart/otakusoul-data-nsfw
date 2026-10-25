@@ -1,0 +1,16 @@
+{
+  "asset": "cover.webp",
+  "size": [
+    960,
+    540
+  ],
+  "generator": "OpenAI image_gen (integriertes Bildwerkzeug)",
+  "generated": "2026-10-25",
+  "prompt": "Use case: illustration-story. Create ONE polished landscape 16:9 story collection cover, no text, logo, watermark, no panels. Aoi Shirahama and Ren Kisaragi, both 21-year-old adults. Preserve reference faces, her dark hair with red streak and his black tousled hair. She wears elegant black evening dress with a jacket, he wears white shirt, black vest and tie. They exchange a warm glance at the counter of a quiet Ginza bar after the late shift; large window overlooks rainy Tokyo neon, a nearby radio microphone and headphones hint at her producer job. Mature romantic drama, fully clothed, eye-level cinematic framing. Several characters where listed, background visibly occupies at least half the frame, compelling thumbnail composition, faces safely within margins. No nudity or sexual content.",
+  "references": [
+    "presets/tokyo-first-shift/aoi-shirahama.png",
+    "presets/tokyo-first-shift/ren-kisaragi.png"
+  ],
+  "postprocessing": "Mittig auf 16:9 zugeschnitten und mit Lanczos auf 960×540 skaliert; WebP Qualität 92.",
+  "provenance": "KI-generiertes Titelbild; Figuren und Schauplätze anhand vorhandener Paketbilder. Bestehende Rechte- und Fanart-Hinweise gelten weiterhin."
+}

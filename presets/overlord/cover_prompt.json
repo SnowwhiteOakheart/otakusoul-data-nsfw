@@ -1,0 +1,15 @@
+{
+  "asset": "cover.webp",
+  "size": [
+    960,
+    540
+  ],
+  "generator": "OpenAI image_gen (integriertes Bildwerkzeug)",
+  "generated": "2026-10-25",
+  "prompt": "Use case: illustration-story. Create ONE polished landscape 16:9 story collection cover, no text, logo, watermark, no panels. Adult Albedo with black hair, golden eyes, white horns and black feathered wings, recognizable reference face. Wearing elegant full-length white and gold gown, standing in the vast opulent Nazarick throne hall, black marble, gold columns, violet magical candles and towering empty throne. Dignified gothic romantic fantasy, dramatic cinematic eye-level framing, no erotic pose. Several characters where listed, background visibly occupies at least half the frame, compelling thumbnail composition, faces safely within margins. No nudity or sexual content.",
+  "references": [
+    "presets/overlord/albedo.png"
+  ],
+  "postprocessing": "Mittig auf 16:9 zugeschnitten und mit Lanczos auf 960×540 skaliert; WebP Qualität 92.",
+  "provenance": "KI-generiertes Titelbild; Figuren und Schauplätze anhand vorhandener Paketbilder. Bestehende Rechte- und Fanart-Hinweise gelten weiterhin."
+}

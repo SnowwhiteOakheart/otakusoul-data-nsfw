@@ -1,0 +1,16 @@
+{
+  "asset": "cover.webp",
+  "size": [
+    960,
+    540
+  ],
+  "generator": "OpenAI image_gen (integriertes Bildwerkzeug)",
+  "generated": "2026-10-25",
+  "prompt": "Use case: illustration-story. Create one polished landscape 16:9 anime cover for the shared Adult Romance collection. The reference shows two original adult characters Aoi and Ren, both 21. Preserve their faces and hair. They sit fully clothed together on an elegant moonlit Tokyo balcony, she wears a tasteful black dress and shawl, he wears a buttoned white shirt, dark trousers and jacket. Shared cup of tea, gentle smiles, distant glowing skyline and warm interior bookshelves with an open book visible. Restrained mature romance, beautiful expansive background across upper half, dignified eye-level framing, no erotic pose, no nudity, no sexual content, no text, no logos, no watermark. Cohesive illustration, not panels.",
+  "references": [
+    "presets/tokyo-first-shift/aoi-shirahama.png",
+    "presets/tokyo-first-shift/ren-kisaragi.png"
+  ],
+  "postprocessing": "Mittig auf 16:9 zugeschnitten und mit Lanczos auf 960×540 skaliert; WebP Qualität 92.",
+  "provenance": "KI-generiertes Titelbild; Figuren und Schauplätze anhand vorhandener Paketbilder. Bestehende Rechte- und Fanart-Hinweise gelten weiterhin."
+}

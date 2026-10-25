@@ -26,3 +26,7 @@
   in `modules::hub::tests::nsfw_hub_live_registry_check` erfolgreich verifiziert.
 
 
+
+## Paket-Titelbilder (25.10.2026)
+
+- [x] Alle fünf Pakete mit individuellen Titelbildern als `presets/<paket>/cover.webp` (960×540 WebP) ausgestattet; vollständig bekleidete Figuren, passende Schauplätze und Prompt-/Referenznachweise in `cover_prompt.json`.
