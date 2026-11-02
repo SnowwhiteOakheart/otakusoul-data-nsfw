@@ -54,3 +54,6 @@ tools/validate_content.py        Validierungswerkzeug
    * Volljährigkeit jeder Figur steht ausdrücklich in der Karte (Beschreibung bzw. `creator_notes`, alle Sprachen).
 5. **Validierung vor jedem Push:**
    * Vor jedem Commit `python3 tools/validate_content.py` ausführen.
+
+
+- Musik: `extensions.otakusoul_music` (Englisch, nicht übersetzen; Schema in `docs/stage_music.md` der App). Szenen tragen `set` (eine Sammlung = ein Set, die Sammlungs-ID), `style` und `moods.<stimmung>` mit ACE-Step-`caption` (optional `lyrics` + `vocal_language` für leisen Gesang, `bpm`, `duration`, `count`); Lorebooks die Klangwelt `style`, Karten ein Leitmotiv `theme` (optional `moods`). Alle Szenen einer Sammlung haben denselben Abschnitt. Gepflegt in `tools/music_settings.json`, geschrieben mit `tools/set_music.py` (Szenen nach Titel, Lorebooks nach Name, Karten nach `data.name`: JSON, Preset- und Gateway-PNG; erhöht `revision`/`updated` der geänderten Registry-Einträge selbst). Neue Szenen, Lorebooks und Figuren dort eintragen; Captions beschreiben nur Musik, auch bei 18+-Inhalten nicht explizit. Fertige Titel liegen unter `music/<set>/<stimmung>/` und werden in `tracks` der Szenen eingetragen (Pfad + SHA-256).

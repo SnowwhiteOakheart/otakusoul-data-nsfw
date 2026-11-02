@@ -45,3 +45,5 @@ Die fünf Pakete `neverness-to-everness`, `no-game-no-life`, `overlord`, `tokyo-
 ## Final Fantasy VII: Maskenball-Variante · 02.11.2026
 
 Vier DE/EN/RU-Profile, jeweils acht verschiedene Expressions und ein Ganzkörperbild; zwei Hintergründe, Titelbild, Promptnachweise und vollständige Sammlung `final_fantasy_vii_midnight_18`. Nicht explizite erwachsene Romance mit freizügiger blickdichter Mode, ohne Nacktheit. Sephiroth bleibt ein gegnerisches Spiegelbild. Die ursprüngliche SFW-Geschichte bleibt unverändert. Details: [`presets/final-fantasy-vii-midnight/README.md`](presets/final-fantasy-vii-midnight/README.md).
+
+  * `extensions.otakusoul_music` (Englisch): Musik für ACE-Step – Szenen `set`/`style`/`moods`, Lorebooks `style`, Karten `theme`; Quelle `tools/music_settings.json`, schreiben mit `tools/set_music.py tools/music_settings.json` (`--check` prüft nur).

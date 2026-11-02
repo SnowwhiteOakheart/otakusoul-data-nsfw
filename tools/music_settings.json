@@ -1,0 +1,127 @@
+{
+  "scenes": {
+    "nachtschicht_in_hethereau": {
+      "set": "neverness_to_everness_18",
+      "style": "intimate urban night soundtrack, smooth jazz chords, soft electronic beat, city lights",
+      "moods": {
+        "calm": {
+          "caption": "quiet late-night quarters, soft rhodes piano and rain",
+          "bpm": 76,
+          "duration": 150,
+          "count": 2
+        },
+        "romance": {
+          "caption": "slow warm R&B groove, soft bass, tender and intimate",
+          "bpm": 70,
+          "duration": 120
+        },
+        "tension": {
+          "caption": "anomaly alarm in the distance, muted synth pulse",
+          "bpm": 100,
+          "duration": 100
+        }
+      }
+    },
+    "ff7_masken_mako_mitternacht_18": {
+      "set": "final_fantasy_vii_midnight_18",
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight",
+      "moods": {
+        "calm": {
+          "caption": "hotel lobby lounge, soft piano jazz",
+          "bpm": 80,
+          "duration": 150,
+          "count": 2
+        },
+        "romance": {
+          "caption": "slow waltz, intimate strings and saxophone",
+          "bpm": 72,
+          "duration": 120
+        },
+        "tension": {
+          "caption": "masked intrigue, tango rhythm, staccato strings",
+          "bpm": 112,
+          "duration": 110
+        },
+        "mystery": {
+          "caption": "whispers behind the masks, harp and mako hum",
+          "bpm": 66,
+          "duration": 120
+        }
+      }
+    }
+  },
+  "lorebooks": {
+    "Neverness to Everness – Esper-Intimität": {
+      "style": "intimate urban night soundtrack, smooth jazz chords, soft electronic beat, city lights"
+    },
+    "Final Fantasy VII – Midgar nach Mitternacht (18+)": {
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight"
+    },
+    "Final Fantasy VII – Masken & Beziehungen (18+)": {
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight"
+    },
+    "Final Fantasy VII – Der ECHO-Maskenball (18+)": {
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight"
+    },
+    "Adulte Romance & Erotik": {
+      "style": "intimate romantic soundtrack, soft piano, warm strings, smooth late-night jazz"
+    }
+  },
+  "cards": {
+    "Mint": {
+      "theme": "playful cat-like synth pluck, smug and cute"
+    },
+    "Jibril": {
+      "theme": "ethereal angelic harp and choir pads, curious and ancient",
+      "moods": [
+        "mystery",
+        "romance",
+        "calm"
+      ]
+    },
+    "Albedo": {
+      "theme": "dark romantic strings with a jealous edge",
+      "moods": [
+        "romance",
+        "tension"
+      ]
+    },
+    "Tifa Lockhart": {
+      "theme": "warm bar-piano melody with a strong heart",
+      "moods": [
+        "calm",
+        "romance",
+        "combat"
+      ]
+    },
+    "Aerith Gainsborough": {
+      "theme": "gentle flower-field flute and harp, hopeful and bittersweet",
+      "moods": [
+        "calm",
+        "romance",
+        "sorrow"
+      ]
+    },
+    "Cloud Strife": {
+      "theme": "brooding electric guitar over low strings",
+      "moods": [
+        "combat",
+        "sorrow",
+        "tension"
+      ]
+    },
+    "Sephiroth": {
+      "theme": "ominous chanting choir motif, cold and overwhelming",
+      "moods": [
+        "boss",
+        "tension"
+      ]
+    },
+    "Aoi Shirahama": {
+      "theme": "late-night radio jingle on soft electric piano, earnest and warm"
+    },
+    "Ren Kisaragi": {
+      "theme": "smooth bar jazz guitar, attentive and calm"
+    }
+  }
+}
