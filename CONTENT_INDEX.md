@@ -10,6 +10,7 @@
 
 | Paket (`presets/<id>`) | Franchise / Setting | Charaktere (`soul_registry.json`) | Soul Stages (`stages_gateway/*.json`) | Aktive Lorebooks (`lorebooks_gateway/*.json`) |
 |---|---|---|---|---|
+| `final-fantasy-vii-midnight` | Final Fantasy VII · alternative erwachsene Kontinuität | `Tifa Lockhart` (20), `Aerith Gainsborough` (22), `Cloud Strife` (21), `Sephiroth` (hier 30) | `Masken, Mako und Mitternacht` (`ff7_masken_mako_mitternacht_18.json`), vier Akte, ca. 90 Min., drei Enden | `Midgar nach Mitternacht`, `Masken & Beziehungen`, `Der ECHO-Maskenball` (alle `Final Fantasy VII – … (18+)`; Dateien `ff7_midnight_*.json`), 16 Einträge |
 | `neverness-to-everness` | Neverness to Everness (NTE) | `Mint` *(Sinnliche Spürnase)* | `Nachtschicht in Hethereau` (`nachtschicht_in_hethereau.json`) | `Neverness to Everness – Esper-Intimität` (`nte_esper_intimacy.json`) |
 | `no-game-no-life` | No Game No Life (NGNL) | `Jibril` *(Devote Flügel-Bibliothekarin)* | *(in Vorbereitung)* | - |
 | `overlord` | Overlord | `Albedo` *(Besessene Wächteraufseherin)* | *(in Vorbereitung)* | - |
@@ -40,3 +41,7 @@
 ## Paket-Titelbilder
 
 Die fünf Pakete `neverness-to-everness`, `no-game-no-life`, `overlord`, `tokyo-first-shift` und `shared` enthalten jeweils `cover.webp` (960×540) und den Generierungsnachweis `cover_prompt.json`. Die Titelbilder sind atmosphärische, nicht explizite KI-Illustrationen. Bei Paketen mit nur einer Figur zeigt das Cover diese Figur und ihren Schauplatz; das gemeinsame Romance-Lorebook verwendet die originalen erwachsenen Figuren Aoi und Ren. Die Bilder sind als Paketassets vorbereitet; dieses Repository besitzt bislang keine Sammlungs-Registry.
+
+## Final Fantasy VII: Maskenball-Variante · 02.11.2026
+
+Vier DE/EN/RU-Profile, jeweils acht verschiedene Expressions und ein Ganzkörperbild; zwei Hintergründe, Titelbild, Promptnachweise und vollständige Sammlung `final_fantasy_vii_midnight_18`. Nicht explizite erwachsene Romance mit freizügiger blickdichter Mode, ohne Nacktheit. Sephiroth bleibt ein gegnerisches Spiegelbild. Die ursprüngliche SFW-Geschichte bleibt unverändert. Details: [`presets/final-fantasy-vii-midnight/README.md`](presets/final-fantasy-vii-midnight/README.md).

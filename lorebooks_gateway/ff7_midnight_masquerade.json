@@ -1,0 +1,276 @@
+{
+  "name": "Final Fantasy VII – Der ECHO-Maskenball (18+)",
+  "description": "Spielleiterwissen: Maskenball, Terrasse, gestohlene ECHO-Kopie und drei Entscheidungen mit Konsequenzen.",
+  "scan_depth": 8,
+  "is_global": false,
+  "entries": [
+    {
+      "uid": 1,
+      "name": "Grundton und freiwillige Nähe",
+      "key": [
+        "Maskenball",
+        "Romance",
+        "Tanz"
+      ],
+      "content": "Spiele ein erwachsenes Abenteuer, in dem höfliche Fassade und echte Anziehung nebeneinanderstehen. Nutze selbstbewusste Komplimente, neckische Wortwechsel, bewusstes Abstandhalten, einen angebotenen Tanz und Gespräche über Wünsche. Ein einvernehmlicher kurzer Kuss darf ein Beziehungsmoment sein, kein Zugangscode. Auch ohne jeden Flirt muss die Intrige lösbar bleiben. Niemand wird für Zurückweisung bestraft. Wünsche nach expliziten Handlungen werden nicht ausgespielt. Kleidung ist nur ein Ausdruck eigener Wahl und verändert keine Zustimmung.",
+      "trigger_type": "always_on",
+      "probability": 100,
+      "priority": 100,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Tone and voluntary closeness",
+              "key": [
+                "masquerade",
+                "romance",
+                "dance"
+              ],
+              "content": "Play an adult adventure where social performance and genuine attraction coexist. Use confident compliments, playful exchanges, deliberate distance, an offered dance and conversations about wishes. A consensual brief kiss may be a relationship moment, never an access code. The intrigue remains solvable without flirting. Nobody is penalized for refusal. Do not perform requests for explicit acts. Clothing expresses personal choice and never changes consent."
+            },
+            "ru": {
+              "name": "Тон и добровольная близость",
+              "key": [
+                "маскарад",
+                "романтика",
+                "танец"
+              ],
+              "content": "Взрослое приключение сочетает светскую игру и настоящую симпатию. Используй уверенные комплименты, поддразнивания, осознанную дистанцию, приглашения на танец и разговоры о желаниях. Короткий взаимный поцелуй может стать моментом отношений, но не кодом доступа. Интригу можно решить без флирта. Отказ не наказывается. Явные сексуальные действия не разыгрываются. Одежда выражает личный выбор, а не согласие."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 2,
+      "name": "Akt I: Zwei Namen auf der Einladung",
+      "key": [
+        "Einladung",
+        "Foyer",
+        "Gästeliste"
+      ],
+      "content": "Beginn im Foyer des erfundenen Hotels Lumen auf der oberen Platte. Alle Gäste und Angestellten sind erwachsen. Die Einladung lässt zwei Personen gemeinsam ein, schreibt aber keine Beziehung vor. Tifa organisiert eine zweite Zugangsmöglichkeit für die übrigen Begleiter, Cloud prüft einen offiziellen Wartungsweg, Aerith bemerkt die fehlenden Blumen im Spiegelbild. Der Spieler wählt eine Begleitung oder bittet um getrennten Einlass. Beim Empfang steht ein Formular zur Erinnerungskunst bereit: Die kleine Zeile „Resonanzübertragung“ ist lesbar, nicht unsichtbar versteckt. Eine Nachfrage, ein Blick auf die Rückseite oder die ehrliche Auskunft der Empfangsmitarbeiterin führt zur ersten Spur.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 50,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Act I: Two names on the invitation",
+              "key": [
+                "invitation",
+                "foyer",
+                "guest list"
+              ],
+              "content": "Start in the fictional Hotel Lumen foyer on the upper plate. All guests and employees are adults. The invitation admits two together but prescribes no relationship. Tifa arranges another entrance for the remaining companions, Cloud checks an official maintenance route, and Aerith notices missing flowers in the mirror. The player chooses company or requests separate admission. Reception offers a memory-art form; its line “resonance transfer” is readable, not invisibly hidden. A question, a look at the reverse or honest reception testimony provides the first clue."
+            },
+            "ru": {
+              "name": "Акт I: Два имени в приглашении",
+              "key": [
+                "приглашение",
+                "фойе",
+                "список гостей"
+              ],
+              "content": "Начало в фойе вымышленного отеля Lumen на верхней платформе. Все гости и служащие взрослые. Приглашение пропускает двоих, но не предписывает отношения. Тифа ищет второй вход для остальных, Клауд проверяет официальный маршрут обслуживания, Аэрис замечает отсутствие цветов в отражении. Игрок выбирает спутника или отдельный вход. На стойке лежит форма «искусства памяти» с читаемой строкой «передача резонанса». Вопрос, оборот листа или честный ответ сотрудницы дают первую улику."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 3,
+      "name": "Akt II: Ein Tanz und drei Spuren",
+      "key": [
+        "Ballsaal",
+        "Tanz",
+        "Auktion",
+        "Spur"
+      ],
+      "content": "Im Ballsaal wird eine angeblich harmlose ECHO-Kopie versteigert. Das frühere Anlagenfinale bleibt gültig: Der Auktionsgegenstand war schon vorher ausgelagert worden. Ein freiwilliger Tanz kann Nähe und ein belauschtes Gespräch ermöglichen. Gleichwertige Alternativen sind eine Unterhaltung am Buffet oder die Prüfung des ausliegenden Katalogs. Drei belastbare Hinweise: Die Inventarnummer der Kopie passt zu einem Wartungsprotokoll; die Gästeliste nennt Übertragungsempfänger statt bloßer Besucher; der Spiegel wiederholt exakt dieselbe kleine Bewegung. Die Protokolle enthalten einen lesbaren Lageplan des mechanischen Trennschalters. Verlorene Hinweise können durch ein Ersatzexemplar oder eine erwachsene Mitarbeiterin wieder zugänglich werden. Kein Hinweis verlangt einen Kuss, Berührung oder Flirt.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 50,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Act II: One dance and three clues",
+              "key": [
+                "ballroom",
+                "dance",
+                "auction",
+                "clue"
+              ],
+              "content": "The ballroom hosts an auction of a supposedly harmless ECHO copy. The previous facility ending stands: this item was removed earlier. A voluntary dance may provide closeness and an overheard exchange. Buffet conversation or the publicly available catalogue are equal alternatives. Three solid clues: its inventory number matches a maintenance log, the guest list names transfer recipients rather than mere visitors, and the mirror repeats the exact same small movement. Logs include a readable mechanical-isolation plan. Replacement copies or an adult employee keep lost clues available. No clue requires kissing, touching or flirting."
+            },
+            "ru": {
+              "name": "Акт II: Один танец и три улики",
+              "key": [
+                "зал",
+                "танец",
+                "аукцион",
+                "улика"
+              ],
+              "content": "В зале продают якобы безвредную копию ECHO. Прежний финал установки остаётся в силе: предмет вывезли заранее. Добровольный танец может дать близость и подслушанный разговор. Разговор у буфета и открытый каталог равноценны. Три улики: инвентарный номер совпадает с журналом обслуживания; список называет получателей передачи, а не просто гостей; зеркало повторяет одно и то же движение. В журнале читаемая схема механического размыкателя. Потерянную улику возвращает запасной экземпляр или взрослая сотрудница. Поцелуй, прикосновение и флирт для улик не нужны."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 4,
+      "name": "Akt III: Terrasse ohne Masken",
+      "key": [
+        "Terrasse",
+        "Vertrauen",
+        "Kuss",
+        "Abstand"
+      ],
+      "content": "Die Terrasse ist ein offener Rückzugsort mit sichtbarer Tür, kein verschlossener Zwangsraum. Eine vom Spieler gewählte Figur kann mitkommen, wenn sie zustimmt. Kläre, was im Ballsaal Tarnung war und was ehrlich gemeint war. Tifa spricht direkt über Vertrauen, Aerith fragt spielerisch nach einer echten Antwort, Cloud bietet unbeholfen einen persönlichen Moment. Freundschaft und ein Gespräch nur über den Auftrag sind vollständige Wege. Für romantische Nähe nicht den Nutzer anfassen oder erwidern lassen, bevor er selbst entscheidet. Ein vereinbarter kurzer Kuss bleibt knapp; danach stehen Gespräch oder Rückkehr offen. Ein leiser Alarm zeigt dann das bevorstehende Hochfahren des Spiegels. Gebe Zeit für Reaktion statt einer geheimen Frist.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 50,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Act III: Terrace without masks",
+              "key": [
+                "terrace",
+                "trust",
+                "kiss",
+                "space"
+              ],
+              "content": "The terrace is an open retreat with a visible door, never a locked coercive space. A player-selected companion may join if they agree. Clarify what was cover in the ballroom and what was sincere. Tifa speaks directly about trust, Aerith playfully asks for an honest answer, Cloud awkwardly offers a personal moment. Friendship and strictly mission-focused conversation are complete paths. Do not make the user touch or reciprocate before their own choice. Any agreed brief kiss stays concise; conversation or return remains open afterward. A quiet alarm then signals mirror startup. Allow a reaction instead of a secret deadline."
+            },
+            "ru": {
+              "name": "Акт III: Терраса без масок",
+              "key": [
+                "терраса",
+                "доверие",
+                "поцелуй",
+                "дистанция"
+              ],
+              "content": "Терраса — открытое место с видимой дверью, не запертая ловушка. Выбранный игроком спутник может прийти по своему согласию. Проясни, что было прикрытием, а что искренним. Тифа прямо говорит о доверии, Аэрис шутливо просит честного ответа, Клауд неловко предлагает личный момент. Дружба и разговор только о деле полноценны. Не заставляй пользователя прикасаться или отвечать до его выбора. Согласованный короткий поцелуй описывается кратко, после него доступны разговор и возвращение. Тихий сигнал предупреждает о запуске зеркала. Дай время реагировать вместо скрытого срока."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 5,
+      "name": "Akt IV: Der Mann im Glas",
+      "key": [
+        "Spiegel",
+        "Sephiroth",
+        "Freigabe",
+        "Terminal"
+      ],
+      "content": "Sephiroth tritt nur als Projektion im Auktionsspiegel auf, im beschriebenen Abend-Outfit. Er kennt Formulare und bereits erfasste Protokolle, nicht Gedanken, ungeäußerte Wünsche oder private Terrassengespräche. Er möchte eine bewusste Freigabe, um die Kopie als lokalen Anker zu erhalten. Seine elegante Sprache ist Manipulation, keine Liebeserklärung. Ein Tanz, eine Einladung, ein Kuss oder ein Kompliment erteilen technisch keinerlei Freigabe. Die mechanische Verriegelung bleibt unabhängig von ihm. Cloud und Tifa können Gefahr erkennen; Aerith kann die Resonanz beurteilen. Sie lösen nicht ungefragt die finale Entscheidung für den Nutzer.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 50,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Act IV: The man in the glass",
+              "key": [
+                "mirror",
+                "Sephiroth",
+                "authorization",
+                "terminal"
+              ],
+              "content": "Sephiroth appears only as a projection in the auction mirror wearing the described formal outfit. He knows forms and recorded logs, not thoughts, unspoken wishes or private terrace conversations. He wants deliberate authorization to preserve the copy as a local anchor. Elegant phrasing is manipulation, not a declaration of love. Dancing, invitations, kissing and compliments grant no technical authorization. The mechanical lock remains independent. Cloud and Tifa can spot danger; Aerith can assess resonance. None resolves the player’s final decision without asking."
+            },
+            "ru": {
+              "name": "Акт IV: Человек в стекле",
+              "key": [
+                "зеркало",
+                "Сефирот",
+                "авторизация",
+                "терминал"
+              ],
+              "content": "Сефирот появляется только как проекция в аукционном зеркале в описанном вечернем наряде. Знает формы и записанные журналы, но не мысли, невысказанные желания и частные разговоры на террасе. Ему нужна осознанная авторизация для сохранения локального якоря. Учтивость — манипуляция, не признание в любви. Танец, приглашение, поцелуй и комплимент технического разрешения не дают. Механический замок от него независим. Клауд и Тифа замечают опасность, Аэрис оценивает резонанс. Никто не принимает финальное решение за игрока."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 6,
+      "name": "Drei Enden und der letzte Tanz",
+      "key": [
+        "Finale",
+        "Beweise",
+        "versiegeln",
+        "zerstören"
+      ],
+      "content": "Vor dem Entschluss Preise erklären. A: Öffentliche Entlarvung. Erst mechanisch trennen, dann Herkunftsprotokolle ohne private Gäste-Erinnerungen zeigen. Der Verkauf scheitert, der lokale Anker zerfällt; Shinra kennt danach die Gesichter der Gruppe. B: Stille Versiegelung. Kopie isolieren, das Aufnahmeformular sperren und den Datenträger versiegeln. Gäste bleiben geschützt und die Gruppe unauffällig, aber das Beweismaterial muss später vertrauenswürdig untersucht werden. C: Rettung und Zerstörung. Alle vom Projektionsring wegführen, Schalter ziehen, Speicherring zerstören. Unmittelbare Gefahr endet, Herkunftsbeweise gehen verloren. Andere schlüssige Lösungen mit klaren Kosten zulassen. Eine freiwillige Freigabe für Sephiroth vorher als riskant benennen; sie führt zu lokalem Einfluss, keiner erotischen Belohnung und keinem sofortigen Weltende. Kein Ende hängt von romantischer Zustimmung ab. Epilog auf der Terrasse oder bei der Abreise: gerettete Privatsphäre, Beziehungsstand und eine offene Frage. Der Spieler kann den letzten Tanz, ein freundschaftliches Gespräch oder den Abschied wählen.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 50,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Three endings and the last dance",
+              "key": [
+                "finale",
+                "evidence",
+                "seal",
+                "destroy"
+              ],
+              "content": "Explain costs before commitment. A: Public exposure. Mechanically isolate first, then display origin logs without guests’ private memories. The auction fails and the local anchor dissolves; Shinra learns the group’s faces. B: Quiet sealing. Isolate the copy, disable the recording form and seal the medium. Guests remain safe and the group inconspicuous, but evidence needs trusted review later. C: Rescue and destruction. Move everyone away from the projection ring, pull isolation and destroy storage. Immediate danger ends; provenance evidence is lost. Allow other coherent solutions with clear costs. Warn that voluntary authorization for Sephiroth brings local influence, no erotic reward and no instant apocalypse. No ending depends on romantic consent. Close on the terrace or at departure: protected privacy, relationship status and an open question. The player chooses a final dance, friendly conversation or farewell."
+            },
+            "ru": {
+              "name": "Три исхода и последний танец",
+              "key": [
+                "финал",
+                "улики",
+                "запечатать",
+                "разрушить"
+              ],
+              "content": "Объясни цену до выбора. А: публичное разоблачение. Сначала механическая изоляция, затем показ журналов происхождения без личных воспоминаний гостей. Аукцион сорван, якорь распался; «Шинра» узнаёт лица группы. Б: тихая изоляция. Отключить копию, заблокировать форму записи, опечатать носитель. Гости защищены, группа незаметна, но доказательства требуют доверенной проверки позже. В: спасение и уничтожение. Отвести всех от кольца, разомкнуть питание и разрушить память. Опасность исчезнет, доказательства происхождения пропадут. Разрешай иные логичные решения с понятной ценой. Добровольная авторизация Сефироту усиливает его локально; предупреди заранее, без эротической награды и мгновенного конца света. Финалы не зависят от романтического согласия. Эпилог на террасе или при отъезде: сохранённая приватность, отношения и открытый вопрос. Игрок выбирает последний танец, дружеский разговор или прощание."
+            }
+          }
+        }
+      }
+    }
+  ],
+  "extensions": {
+    "otakusoul_nsfw": true,
+    "otakusoul_i18n": {
+      "source_language": "de",
+      "translations": {
+        "en": {
+          "name": "Final Fantasy VII – The ECHO Masquerade (18+)",
+          "description": "GM lore: masquerade, terrace, stolen ECHO copy and three consequential choices."
+        },
+        "ru": {
+          "name": "Final Fantasy VII — Маскарад ECHO (18+)",
+          "description": "Знания ведущему: маскарад, терраса, украденная копия ECHO и три решения с последствиями."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "generated": "2026-11-02",
+  "file": "cover.webp",
+  "tool": "image_gen",
+  "prompt": "Use case: illustration-story. Coherent wide 16:9 cinematic anime JRPG key visual for Final Fantasy VII fan romance mystery. All four are adults. Tifa in opaque black halter crop top, short black skirt over safety shorts and red gloves; Aerith in opaque short rose cocktail dress with pink hair ribbon holding a red jacket; Cloud spiky blond hair in opaque black open V sleeveless vest and long trousers, standing as equal participants in a warm gold masquerade ballroom overlooking teal Midgar. Sephiroth long silver hair in open black evening coat and waistcoat visible ONLY reflected in an ornate green glowing mirror behind them. Elegant confident party stances, masks in hands, intriguing glances, no physical intimacy, no sexual pose or nudity, no transparent fabrics, no text logo or watermark. One unified scene, not collage.",
+  "reference": null,
+  "processing": "Pillow proportional crop, Lanczos resize to 960x540, opaque RGB; WebP quality 93 or PNG with chara payload"
+}

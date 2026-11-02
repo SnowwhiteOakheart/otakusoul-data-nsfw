@@ -40,6 +40,38 @@
       "revision": 2,
       "updated": "2026-10-18",
       "nsfw": true
+    },
+    {
+      "name": "Tifa Lockhart",
+      "author": "SnowwhiteOakheart",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/tifa_lockhart.png",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true
+    },
+    {
+      "name": "Aerith Gainsborough",
+      "author": "SnowwhiteOakheart",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/aerith_gainsborough.png",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true
+    },
+    {
+      "name": "Cloud Strife",
+      "author": "SnowwhiteOakheart",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/cloud_strife.png",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true
+    },
+    {
+      "name": "Sephiroth",
+      "author": "SnowwhiteOakheart",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/sephiroth.png",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true
     }
   ]
 }

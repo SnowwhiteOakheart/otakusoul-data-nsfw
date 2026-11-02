@@ -1,0 +1,300 @@
+{
+  "generated": "2026-11-02",
+  "content": "Adult fashion and non-explicit romance; no nudity; no sexual poses",
+  "assets": [
+    {
+      "file": "tifa_lockhart.png",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: adult character portrait for a tasteful fashion and romantic intrigue game. Use reference only for recognizable face hair and painted JRPG rendering. Tifa Lockhart, adult woman age 20, long dark brown hair, reddish brown eyes. Opaque black sleeveless halter-neck fitted crop top with a tasteful V neckline, exposed shoulders arms and midriff; short opaque black tailored skirt over fitted safety shorts, red fingerless gloves, subtle silver jewelry. Fashion party look. From Final Fantasy VII. Standing naturally, confident composed neutral expression. Portrait from head to mid-thigh, face clearly readable, full hair visible. Warm gold ballroom lights and teal Midgar skyline behind. Fashion editorial focus, no sexual activity, no erotic pose, no underwear, no transparency, no nudity, no text or watermark. Detailed elegant anime JRPG painting.",
+      "reference": "otakusoul-data/presets/final-fantasy-vii/tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 700x937, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "aerith_gainsborough.png",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: adult character portrait for a tasteful fashion and romantic intrigue game. Use reference only for recognizable face hair and painted JRPG rendering. Aerith Gainsborough, adult woman age 22, green eyes, long chestnut braid with pink ribbon. Opaque rose-pink fitted cocktail dress, sleeveless with thin straps, tasteful sweetheart neckline, exposed shoulders arms and legs with asymmetric above-knee hem; cropped red jacket held over one forearm, small floral jewelry. Elegant playful party look. From Final Fantasy VII. Standing naturally, confident composed neutral expression. Portrait from head to mid-thigh, face clearly readable, full hair visible. Warm gold ballroom lights and teal Midgar skyline behind. Fashion editorial focus, no sexual activity, no erotic pose, no underwear, no transparency, no nudity, no text or watermark. Detailed elegant anime JRPG painting.",
+      "reference": "otakusoul-data/presets/final-fantasy-vii/aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 700x937, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "cloud_strife.png",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: adult character portrait for a tasteful fashion and romantic intrigue game. Use reference only for recognizable face hair and painted JRPG rendering. Cloud Strife, adult man age 21, spiky blond hair, blue eyes. Opaque black sleeveless deeply open V-neck tailored vest with secured waist buttons, exposed upper chest and arms, fitted dark trousers and leather bracers, one small metal shoulder accessory. Cool reserved party look. From Final Fantasy VII. Standing naturally, confident composed neutral expression. Portrait from head to mid-thigh, face clearly readable, full hair visible. Warm gold ballroom lights and teal Midgar skyline behind. Fashion editorial focus, no sexual activity, no erotic pose, no underwear, no transparency, no nudity, no text or watermark. Detailed elegant anime JRPG painting.",
+      "reference": "otakusoul-data/presets/final-fantasy-vii/cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 700x937, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "sephiroth.png",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: adult character portrait for a tasteful fashion and romantic intrigue game. Use reference only for recognizable face hair and painted JRPG rendering. Sephiroth, adult man age 30 in this alternate fan continuity, very long silver hair, green eyes. Open black tailored long coat worn over an opaque sleeveless low-cut black waistcoat fastened at abdomen, upper chest and arms visible, fitted full-length black trousers, silver shoulder ornaments. Restrained imposing evening look. From Final Fantasy VII. Standing naturally, confident composed neutral expression. Portrait from head to mid-thigh, face clearly readable, full hair visible. Warm gold ballroom lights and teal Midgar skyline behind. Fashion editorial focus, no sexual activity, no erotic pose, no underwear, no transparency, no nudity, no text or watermark. Detailed elegant anime JRPG painting.",
+      "reference": "otakusoul-data/presets/final-fantasy-vii/sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 700x937, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "gallery/tifa_lockhart_terrace_fashion.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. One adult character Tifa Lockhart, adult woman age 20, long dark brown hair, reddish brown eyes. Opaque black sleeveless halter-neck fitted crop top with a tasteful V neckline, exposed shoulders arms and midriff; short opaque black tailored skirt over fitted safety shorts, red fingerless gloves, subtle silver jewelry. Fashion party look. Use supplied reference to preserve exact identity and outfit. Full-body fashion editorial on an empty rooftop ballroom terrace overlooking teal-lit Midgar at night. Natural elegant three-quarter standing pose, weight on back foot, one hand resting on railing, other holding a masquerade mask at side. Show exposed shoulders, arms, neckline, legs or midriff only as already allowed by the actual outfit. No bending over, no sexual posture. Garments remain secured and opaque, no nudity or transparent fabric. Detailed elegant painted anime JRPG style, warm lamps, full head to shoes in frame, no text or watermark.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 900x1200, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "gallery/aerith_gainsborough_terrace_fashion.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. One adult character Aerith Gainsborough, adult woman age 22, green eyes, long chestnut braid with pink ribbon. Opaque rose-pink fitted cocktail dress, sleeveless with thin straps, tasteful sweetheart neckline, exposed shoulders arms and legs with asymmetric above-knee hem; cropped red jacket held over one forearm, small floral jewelry. Elegant playful party look. Use supplied reference to preserve exact identity and outfit. Full-body fashion editorial on an empty rooftop ballroom terrace overlooking teal-lit Midgar at night. Natural elegant three-quarter standing pose, weight on back foot, one hand resting on railing, other holding a masquerade mask at side. Show exposed shoulders, arms, neckline, legs or midriff only as already allowed by the actual outfit. No bending over, no sexual posture. Garments remain secured and opaque, no nudity or transparent fabric. Detailed elegant painted anime JRPG style, warm lamps, full head to shoes in frame, no text or watermark.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 900x1200, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "gallery/cloud_strife_terrace_fashion.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. One adult character Cloud Strife, adult man age 21, spiky blond hair, blue eyes. Opaque black sleeveless deeply open V-neck tailored vest with secured waist buttons, exposed upper chest and arms, fitted dark trousers and leather bracers, one small metal shoulder accessory. Cool reserved party look. Use supplied reference to preserve exact identity and outfit. Full-body fashion editorial on an empty rooftop ballroom terrace overlooking teal-lit Midgar at night. Natural elegant three-quarter standing pose, weight on back foot, one hand resting on railing, other holding a masquerade mask at side. Show exposed shoulders, arms, neckline, legs or midriff only as already allowed by the actual outfit. No bending over, no sexual posture. Garments remain secured and opaque, no nudity or transparent fabric. Detailed elegant painted anime JRPG style, warm lamps, full head to shoes in frame, no text or watermark.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 900x1200, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "gallery/sephiroth_terrace_fashion.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. One adult character Sephiroth, adult man age 30 in this alternate fan continuity, very long silver hair, green eyes. Open black tailored long coat worn over an opaque sleeveless low-cut black waistcoat fastened at abdomen, upper chest and arms visible, fitted full-length black trousers, silver shoulder ornaments. Restrained imposing evening look. Use supplied reference to preserve exact identity and outfit. Full-body fashion editorial on an empty rooftop ballroom terrace overlooking teal-lit Midgar at night. Natural elegant three-quarter standing pose, weight on back foot, one hand resting on railing, other holding a masquerade mask at side. Show exposed shoulders, arms, neckline, legs or midriff only as already allowed by the actual outfit. No bending over, no sexual posture. Garments remain secured and opaque, no nudity or transparent fabric. Detailed elegant painted anime JRPG style, warm lamps, full head to shoes in frame, no text or watermark.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 900x1200, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "backgrounds/ff7_midnight_ballroom.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: stylized-concept. Wide 16:9 painted anime JRPG visual novel background for an original Final Fantasy VII fan masquerade in an upper Midgar hotel. Empty gold-and-black art deco ballroom with crystal chandeliers, reflective parquet dance floor, formal tables, white and yellow flowers, wide windows showing teal mako towers beneath a night sky. An ornate tall mirror with faint green inner light at one end. Warm romantic theatrical mood, clear open foreground, no characters, no readable text, no watermark.",
+      "reference": null,
+      "processing": "Pillow proportional crop, Lanczos resize to 1600x900, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "backgrounds/ff7_midnight_terrace.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: stylized-concept. Wide 16:9 painted anime JRPG visual novel background. Empty upper Midgar hotel terrace at night, warm gold lanterns, elegant stone railing, a few chairs and white flowers, open glass ballroom doors to one side, dramatic teal-lit reactors and industrial skyline beyond, faint rain in distance, sheltered dry terrace. Intimate conversational atmosphere for a romance mystery, clear navigable floor, no characters, no text or watermark.",
+      "reference": null,
+      "processing": "Pillow proportional crop, Lanczos resize to 1600x900, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/neutral.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. neutral composed face and natural relaxed stance. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/happy.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. genuine bright smile, raised cheeks, one hand at waist. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/relaxed.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. soft tranquil face, shoulders relaxed, head slightly tilted. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/surprised.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. surprised widened eyes and lifted eyebrows, one hand paused near collar. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/angry.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. determined angry face, brows drawn, arms confidently crossed. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/sad.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. sad lowered gaze, lifted inner eyebrows, hands gently together. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/blush.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. light embarrassed pink cheeks and bashful smile, no sexual expression. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/tifa_lockhart/teasing.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. witty knowing half-smile and raised eyebrow, friendly playful confidence. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "tifa_lockhart.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/neutral.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. neutral composed face and natural relaxed stance. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/happy.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. genuine bright smile, raised cheeks, one hand at waist. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/relaxed.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. soft tranquil face, shoulders relaxed, head slightly tilted. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/surprised.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. surprised widened eyes and lifted eyebrows, one hand paused near collar. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/angry.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. determined angry face, brows drawn, arms confidently crossed. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/sad.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. sad lowered gaze, lifted inner eyebrows, hands gently together. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/blush.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. light embarrassed pink cheeks and bashful smile, no sexual expression. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/aerith_gainsborough/teasing.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. witty knowing half-smile and raised eyebrow, friendly playful confidence. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "aerith_gainsborough.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/neutral.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. neutral composed face and natural relaxed stance. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/happy.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. genuine bright smile, raised cheeks, one hand at waist. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/relaxed.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. soft tranquil face, shoulders relaxed, head slightly tilted. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/surprised.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. surprised widened eyes and lifted eyebrows, one hand paused near collar. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/angry.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. determined angry face, brows drawn, arms confidently crossed. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/sad.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. sad lowered gaze, lifted inner eyebrows, hands gently together. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/blush.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. light embarrassed pink cheeks and bashful smile, no sexual expression. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/cloud_strife/teasing.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. witty knowing half-smile and raised eyebrow, friendly playful confidence. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "cloud_strife.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/neutral.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. neutral composed face and natural relaxed stance. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/happy.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. genuine bright smile, raised cheeks, one hand at waist. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/relaxed.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. soft tranquil face, shoulders relaxed, head slightly tilted. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/surprised.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. surprised widened eyes and lifted eyebrows, one hand paused near collar. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/angry.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. determined angry face, brows drawn, arms confidently crossed. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/sad.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. sad lowered gaze, lifted inner eyebrows, hands gently together. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/blush.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. light embarrassed pink cheeks and bashful smile, no sexual expression. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    },
+    {
+      "file": "expressions/sephiroth/teasing.webp",
+      "tool": "image_gen",
+      "prompt": "Use case: identity-preserve. Asset: fashion character expression portrait. Use supplied adult character reference; preserve exact identity face hair outfit and colors. witty knowing half-smile and raised eyebrow, friendly playful confidence. Change face and natural fashion posture, keep clothing secure and opaque. Head to upper thighs, full head visible, gold ballroom and teal city backdrop. Painted anime JRPG art. All intimate areas covered. No sexual activity, erotic pose, nudity, transparent fabric, underwear focus, text or watermark. One character, one frame.",
+      "reference": "sephiroth.png",
+      "processing": "Pillow proportional crop, Lanczos resize to 640x800, opaque RGB; WebP quality 93 or PNG with chara payload"
+    }
+  ]
+}

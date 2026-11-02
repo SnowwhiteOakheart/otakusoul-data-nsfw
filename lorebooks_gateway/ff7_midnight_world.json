@@ -1,0 +1,221 @@
+{
+  "name": "Final Fantasy VII – Midgar nach Mitternacht (18+)",
+  "description": "Alternative erwachsene Midgar-Kontinuität, Mako-Wissen und klare Grenzen der Erinnerungsprojektion.",
+  "scan_depth": 8,
+  "is_global": false,
+  "entries": [
+    {
+      "uid": 1,
+      "name": "Alternative erwachsene Kontinuität",
+      "key": [
+        "Midgar"
+      ],
+      "content": "Eigenständige erwachsene Romance-/Intrigen-Variante von „Das Echo unter Midgar“ in einer alternativen FFVII-Kontinuität. Tifa (20), Aerith (22), Cloud (21), Sephiroth (hier ausdrücklich 30) und die Nutzerpersona sind volljährig; jüngere Figuren treten nicht auf. Aerith lebt. Das frühere ECHO-Abenteuer kann stattgefunden haben, doch dessen gewähltes Ende wird nicht überschrieben. Shinra präsentiert auf einem Maskenball in einem Oberstadt-Hotel eine zuvor ausgelagerte ECHO-Kopie. {{user}} besitzt eine Einladung als erwachsene Begleitperson und bestimmt Beruf, Geschlecht, Orientierung und Beziehungen selbst. Die Gruppe will die Herkunft der Kopie beweisen und verhindern, dass Gäste-Erinnerungen aufgezeichnet werden. Tifa, Aerith und Cloud können auf freiwillige Flirts reagieren; es gibt keine automatische Paarung. Sephiroth erscheint ausschließlich in einem mit der Kopie verbundenen Spiegel als manipulativer Gegenspieler, nicht als romantische Belohnung.",
+      "trigger_type": "always_on",
+      "probability": 100,
+      "priority": 100,
+      "enabled": true,
+      "injection_behavior": "active",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Alternate adult continuity",
+              "key": [
+                "Midgar"
+              ],
+              "content": "Standalone adult romance and intrigue variant of The Echo Beneath Midgar in an alternate FFVII continuity. Tifa (20), Aerith (22), Cloud (21), Sephiroth (explicitly 30 here) and the player persona are adults; younger characters do not appear. Aerith is alive. The earlier ECHO adventure may have happened, but its chosen ending is never overwritten. Shinra displays a previously off-site ECHO copy at an upper-city hotel masquerade. {{user}} has an invitation as an adult guest and chooses their own occupation, gender, orientation and relationships. The group must prove the copy’s origin and prevent guests’ memories being recorded. Tifa, Aerith and Cloud may respond to voluntary flirting without automatic pairings. Sephiroth appears only in a mirror connected to the copy as a manipulative antagonist, never a romantic reward."
+            },
+            "ru": {
+              "name": "Альтернативная взрослая история",
+              "key": [
+                "Мидгар"
+              ],
+              "content": "Самостоятельная взрослая романтическая версия «Эха под Мидгаром» с интригой в альтернативной FFVII. Тифа (20), Аэрис (22), Клауд (21), Сефирот (здесь прямо 30 лет) и персона игрока совершеннолетние; младшие персонажи не появляются. Аэрис жива. Ранее сыгранный финал ECHO не отменяется. На маскараде в гостинице верхнего города «Шинра» показывает копию ECHO, заранее вывезенную из установки. У {{user}} есть приглашение взрослого гостя; профессию, гендер, ориентацию и отношения выбирает игрок. Нужно доказать происхождение копии и остановить запись воспоминаний гостей. Тифа, Аэрис и Клауд могут отвечать на добровольный флирт без обязательных пар. Сефирот появляется лишь во связанном с копией зеркале как манипулятивный противник, а не романтическая награда."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 2,
+      "name": "Midgar und Shinra",
+      "key": [
+        "Midgar",
+        "Shinra",
+        "Sektor"
+      ],
+      "content": "Midgar ist eine Industriestadt mit einer hoch gelegenen Platte und benachteiligten Slums darunter. Shinra kontrolliert Energieversorgung und große Teile des öffentlichen Lebens. Mako wird dem Planeten zur Energiegewinnung entzogen. Nicht jeder Angestellte ist ein Fanatiker: Wartungspersonal kann verhandeln, fliehen oder Beweise liefern. Für dieses Abenteuer sind Sperren, Kontrollgänge und Stromausfälle lokale Probleme; eine ganze Plattenkatastrophe ist nicht vorbestimmt.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 40,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Midgar and Shinra",
+              "key": [
+                "Midgar",
+                "Shinra",
+                "sector"
+              ],
+              "content": "Midgar is an industrial city with an elevated plate and disadvantaged slums beneath. Shinra controls energy and much of public life. Mako is extracted from the Planet for power. Not every employee is a zealot: maintenance staff can negotiate, flee or provide evidence. Checkpoints, patrols and outages are local obstacles here; no plate catastrophe is predetermined."
+            },
+            "ru": {
+              "name": "Мидгар и «Шинра»",
+              "key": [
+                "Мидгар",
+                "Шинра",
+                "сектор"
+              ],
+              "content": "Мидгар — промышленный город с верхней платформой и бедными трущобами внизу. «Шинра» контролирует энергию и общественную жизнь, извлекая мако из Планеты. Не каждый сотрудник фанатик: рабочие могут договориться, бежать или дать показания. Блокпосты, патрули и перебои питания здесь локальны; катастрофа платформы не предрешена."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 3,
+      "name": "Lebensstrom und Cetra",
+      "key": [
+        "Lebensstrom",
+        "Cetra",
+        "Planet",
+        "Aerith"
+      ],
+      "content": "Der Lebensstrom ist mit Leben und Erinnerungen des Planeten verbunden. Aeriths Cetra-Erbe ermöglicht besondere Wahrnehmungen, aber keine frei abrufbare Antwort auf jede Frage. ECHO-Bilder sind durch eine Maschine gefilterte Fragmente. Sie sind weder wiederbelebte Personen noch verbindliche Prophezeiungen. Eine bekannte Stimme beweist keine Identität. Physische Beobachtungen und unabhängige Zeugnisse können Projektionen widerlegen.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 40,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Lifestream and Cetra",
+              "key": [
+                "Lifestream",
+                "Cetra",
+                "Planet",
+                "Aerith"
+              ],
+              "content": "The Lifestream is connected with the Planet’s life and memories. Aerith’s Cetra heritage enables unusual perception, not an on-demand answer to every question. ECHO images are machine-filtered fragments, neither resurrected people nor binding prophecies. A familiar voice proves no identity. Physical observations and independent testimony can disprove projections."
+            },
+            "ru": {
+              "name": "Поток Жизни и цетра",
+              "key": [
+                "Поток Жизни",
+                "цетра",
+                "Планета",
+                "Аэрис"
+              ],
+              "content": "Поток Жизни связан с жизнью и памятью Планеты. Наследие цетра даёт Аэрис особое восприятие, а не готовый ответ на любой вопрос. Образы ECHO — фрагменты, пропущенные через машину, не воскресшие люди и не обязательные пророчества. Знакомый голос не доказывает личность. Физические наблюдения и независимые свидетельства могут опровергнуть проекцию."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 4,
+      "name": "Materia und Grenzen",
+      "key": [
+        "Materia",
+        "Heilung",
+        "Magie"
+      ],
+      "content": "Materia kann Magie und besondere Fähigkeiten ermöglichen, wenn sie ausgerüstet und beherrscht wird. Es gibt hier kein 5e-Regelsystem. Beschreibe nachvollziehbare Erschöpfung und begrenzte Ausrüstung statt erfundener Zahlenwerte. Heilung hilft bei Verletzungen, repariert aber keine Daten, beseitigt nicht jede Mako-Belastung und setzt keine erzählerischen Konsequenzen zurück. Neue Fähigkeiten von {{user}} nur nach dessen Festlegung anerkennen.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 40,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Materia and limits",
+              "key": [
+                "materia",
+                "healing",
+                "magic"
+              ],
+              "content": "Equipped materia enables magic and special abilities when the wielder can use it. This story has no 5e ruleset. Describe believable fatigue and limited supplies rather than invented numerical stats. Healing treats injuries, not damaged data or every mako exposure, and does not reset consequences. Accept new abilities for {{user}} only when the player establishes them."
+            },
+            "ru": {
+              "name": "Материя и ограничения",
+              "key": [
+                "материя",
+                "лечение",
+                "магия"
+              ],
+              "content": "Экипированная материя позволяет пользоваться магией и умениями при соответствующих навыках. Правил 5e здесь нет. Описывай усталость и ограниченные припасы вместо вымышленных числовых характеристик. Лечение помогает при ранах, но не чинит данные, не устраняет любое воздействие мако и не отменяет последствия. Способности {{user}} устанавливает сам игрок."
+            }
+          }
+        }
+      }
+    },
+    {
+      "uid": 5,
+      "name": "Shinra, Avalanche und Unbeteiligte",
+      "key": [
+        "Avalanche",
+        "Wache",
+        "Zivilisten"
+      ],
+      "content": "Avalanche widersetzt sich Shinras Ausbeutung des Planeten. Tifa gewichtet den Schutz von Unbeteiligten hoch. Die örtliche Shinra-Wache will den Versuchsspeicher sichern; sie kennt nicht automatisch dessen Geheimnisse. Tarnung, ein Wartungsauftrag oder ein Angebot zur Evakuierung können einen Kampf ersetzen. Alarm verändert Wege und Zeitdruck, erzwingt aber kein einziges Lösungsverfahren.",
+      "trigger_type": "keyword",
+      "probability": 100,
+      "priority": 40,
+      "enabled": true,
+      "injection_behavior": "passive",
+      "extensions": {
+        "otakusoul_i18n": {
+          "source_language": "de",
+          "translations": {
+            "en": {
+              "name": "Shinra, Avalanche and civilians",
+              "key": [
+                "Avalanche",
+                "guard",
+                "civilians"
+              ],
+              "content": "Avalanche opposes Shinra’s exploitation of the Planet. Tifa prioritizes civilian safety. The local Shinra guard wants the archive secured but does not automatically know its secrets. Disguise, a maintenance order or an evacuation offer may replace combat. An alarm changes routes and pressure without dictating a single solution."
+            },
+            "ru": {
+              "name": "«Шинра», «Лавина» и мирные жители",
+              "key": [
+                "Лавина",
+                "охранник",
+                "жители"
+              ],
+              "content": "«Лавина» борется с эксплуатацией Планеты корпорацией. Для Тифы важна безопасность мирных жителей. Местная охрана хочет изолировать хранилище, но не знает всех тайн. Маскировка, наряд на ремонт или предложение эвакуации могут заменить бой. Тревога меняет маршруты и темп, но не навязывает единственное решение."
+            }
+          }
+        }
+      }
+    }
+  ],
+  "extensions": {
+    "otakusoul_nsfw": true,
+    "otakusoul_i18n": {
+      "source_language": "de",
+      "translations": {
+        "en": {
+          "name": "Final Fantasy VII – Midgar after Midnight (18+)",
+          "description": "Alternate adult Midgar continuity, mako lore and clear limits of memory projection."
+        },
+        "ru": {
+          "name": "Final Fantasy VII — Мидгар после полуночи (18+)",
+          "description": "Альтернативный взрослый Мидгар, мако и пределы проекций памяти."
+        }
+      }
+    }
+  }
+}

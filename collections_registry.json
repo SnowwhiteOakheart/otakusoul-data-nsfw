@@ -141,6 +141,40 @@
           "title": "Эротика и романтика для взрослых"
         }
       }
+    },
+    {
+      "id": "final_fantasy_vii_midnight_18",
+      "title": "Final Fantasy VII – Masken, Mako und Mitternacht (18+)",
+      "description": "Ein Shinra-Maskenball, drei mögliche Tanzpartner und ein Spiegel, der zu viel weiß. Entdecke auf Midgars Dächern freiwillige Nähe und eine gestohlene ECHO-Kopie – mit Flirts, Intrigen und drei offenen Enden, ohne Nacktheit oder explizite Sexhandlungen.",
+      "author": "SnowwhiteOakheart",
+      "cover_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/presets/final-fantasy-vii-midnight/cover.webp",
+      "characters": [
+        "Tifa Lockhart",
+        "Aerith Gainsborough",
+        "Cloud Strife",
+        "Sephiroth"
+      ],
+      "lorebooks": [
+        "Final Fantasy VII – Midgar nach Mitternacht (18+)",
+        "Final Fantasy VII – Masken & Beziehungen (18+)",
+        "Final Fantasy VII – Der ECHO-Maskenball (18+)"
+      ],
+      "scenes": [
+        "ff7_masken_mako_mitternacht_18"
+      ],
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "title": "Final Fantasy VII – Masks, Mako and Midnight (18+)",
+          "description": "A Shinra masquerade, three possible dance partners and a mirror that knows too much. Discover freely chosen closeness and a stolen ECHO copy above Midgar, with flirting, intrigue and three open endings; no nudity or explicit sexual acts."
+        },
+        "ru": {
+          "title": "Final Fantasy VII – Маски, мако и полночь (18+)",
+          "description": "Маскарад «Шинры», три возможных партнёра по танцу и зеркало, знающее слишком много. Добровольная близость и украденная копия ECHO над крышами Мидгара: флирт, интрига, три исхода, без наготы и явных сексуальных действий."
+        }
+      }
     }
   ]
 }

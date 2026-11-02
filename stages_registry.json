@@ -23,6 +23,29 @@
           "starting_location": "Служебная комната отдыха CSU-2, полутемная гостиная с кожаным диваном"
         }
       }
+    },
+    {
+      "id": "ff7_masken_mako_mitternacht_18",
+      "title": "Masken, Mako und Mitternacht",
+      "description": "Ein Shinra-Maskenball, drei mögliche Tanzpartner und ein Spiegel, der zu viel weiß. Entdecke auf Midgars Dächern freiwillige Nähe und eine gestohlene ECHO-Kopie – mit Flirts, Intrigen und drei offenen Enden, ohne Nacktheit oder explizite Sexhandlungen.",
+      "author": "SnowwhiteOakheart",
+      "starting_location": "Foyer des Hotels Lumen, Midgars obere Platte",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/stages_gateway/ff7_masken_mako_mitternacht_18.json",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "title": "Masks, Mako and Midnight",
+          "description": "A Shinra masquerade, three possible dance partners and a mirror that knows too much. Discover freely chosen closeness and a stolen ECHO copy above Midgar, with flirting, intrigue and three open endings; no nudity or explicit sexual acts.",
+          "starting_location": "Hotel Lumen foyer, Midgar upper plate"
+        },
+        "ru": {
+          "title": "Маски, мако и полночь",
+          "description": "Маскарад «Шинры», три возможных партнёра по танцу и зеркало, знающее слишком много. Добровольная близость и украденная копия ECHO над крышами Мидгара: флирт, интрига, три исхода, без наготы и явных сексуальных действий.",
+          "starting_location": "Фойе отеля Lumen, верхняя платформа Мидгара"
+        }
+      }
     }
   ]
 }

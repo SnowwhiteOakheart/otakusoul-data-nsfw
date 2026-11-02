@@ -40,6 +40,66 @@
           "description": "Понятия, сенсорная динамика и нарративные паттерны для взрослой романтики и эротики: скиншип, феромоны, эрогенные зоны, нарастание страсти, интимный шёпот и послевкусие."
         }
       }
+    },
+    {
+      "name": "Final Fantasy VII – Midgar nach Mitternacht (18+)",
+      "description": "Alternative erwachsene Midgar-Kontinuität, Mako-Wissen und klare Grenzen der Erinnerungsprojektion.",
+      "author": "SnowwhiteOakheart",
+      "entry_count": 5,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_world.json",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "Alternate adult Midgar continuity, mako lore and clear limits of memory projection.",
+          "name": "Final Fantasy VII – Midgar after Midnight (18+)"
+        },
+        "ru": {
+          "description": "Альтернативный взрослый Мидгар, мако и пределы проекций памяти.",
+          "name": "Final Fantasy VII — Мидгар после полуночи (18+)"
+        }
+      }
+    },
+    {
+      "name": "Final Fantasy VII – Masken & Beziehungen (18+)",
+      "description": "Volljährige Figuren, eigenständige Beziehungen, freiwillige Flirts und eine klare Trennung von Anziehung und Manipulation.",
+      "author": "SnowwhiteOakheart",
+      "entry_count": 5,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_relationships.json",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "Adult characters, independent relationships, voluntary flirting and a clear distinction between attraction and manipulation.",
+          "name": "Final Fantasy VII – Masks & Relationships (18+)"
+        },
+        "ru": {
+          "description": "Совершеннолетние персонажи, независимые отношения, добровольный флирт и отличие симпатии от манипуляции.",
+          "name": "Final Fantasy VII — Маски и отношения (18+)"
+        }
+      }
+    },
+    {
+      "name": "Final Fantasy VII – Der ECHO-Maskenball (18+)",
+      "description": "Spielleiterwissen: Maskenball, Terrasse, gestohlene ECHO-Kopie und drei Entscheidungen mit Konsequenzen.",
+      "author": "SnowwhiteOakheart",
+      "entry_count": 6,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_masquerade.json",
+      "revision": 1,
+      "updated": "2026-11-02",
+      "nsfw": true,
+      "translations": {
+        "en": {
+          "description": "GM lore: masquerade, terrace, stolen ECHO copy and three consequential choices.",
+          "name": "Final Fantasy VII – The ECHO Masquerade (18+)"
+        },
+        "ru": {
+          "description": "Знания ведущему: маскарад, терраса, украденная копия ECHO и три решения с последствиями.",
+          "name": "Final Fantasy VII — Маскарад ECHO (18+)"
+        }
+      }
     }
   ]
 }

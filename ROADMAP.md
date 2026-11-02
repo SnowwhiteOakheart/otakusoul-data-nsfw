@@ -30,3 +30,10 @@
 ## Paket-Titelbilder (25.10.2026)
 
 - [x] Alle fünf Pakete mit individuellen Titelbildern als `presets/<paket>/cover.webp` (960×540 WebP) ausgestattet; vollständig bekleidete Figuren, passende Schauplätze und Prompt-/Referenznachweise in `cover_prompt.json`.
+
+
+## Final Fantasy VII: Masken, Mako und Mitternacht · 02.11.2026
+
+- [x] **DE:** Vollständige alternative erwachsene Romance-/Intrigen-Sammlung mit Tifa, Aerith, Cloud und Sephiroth (alle ausdrücklich volljährig), vier DE/EN/RU-Karten, je acht Emotionsbildern und einem Ganzkörper-Modebild. Eine Stage in vier Akten mit drei Enden, drei Lorebooks (16 Einträge), zwei Hintergründen, Keyvisual und Prompt-/Herkunftsnachweisen. Freizügige blickdichte Kleidung ohne Nacktheit oder explizite Sexhandlungen. Alle NSFW-Markierungen und Hub-Verknüpfungen gesetzt.
+- [x] **EN:** Complete alternate adult romance/intrigue collection: four explicitly adult DE/EN/RU cards, eight expressions and one full-body fashion illustration each; one four-act stage with three endings, three lorebooks (16 entries), two backgrounds, cover and documented prompts/provenance. Revealing opaque outfits, no nudity or explicit sexual acts; NSFW marks and hub references included.
+- [x] **RU:** Полная альтернативная взрослая романтическая коллекция с интригой: четыре явно совершеннолетних героя, карты DE/EN/RU, по восемь эмоций и одному модному полнофигурному изображению; сцена в четырёх актах с тремя исходами, три лорбука (16 записей), два фона, обложка, запросы и происхождение. Открытая непрозрачная одежда без наготы и явных сексуальных действий; маркировки и ссылки хаба.
