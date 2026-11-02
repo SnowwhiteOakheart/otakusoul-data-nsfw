@@ -242,6 +242,9 @@
     }
   ],
   "extensions": {
-    "otakusoul_nsfw": true
+    "otakusoul_nsfw": true,
+    "otakusoul_music": {
+      "style": "intimate urban night soundtrack, smooth jazz chords, soft electronic beat, city lights"
+    }
   }
 }

@@ -7,8 +7,8 @@
       "description": "Spezifische Physiologie, Sinne und Erotik in Hethereau: Esper-Überempfindlichkeit, katzenartige erogene Zonen (Ohren & Schweif) und CSU-2-Intimitätsprotokolle.",
       "entry_count": 5,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/nte_esper_intimacy.json",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true,
       "translations": {
         "en": {
@@ -27,8 +27,8 @@
       "description": "Begriffe, sensorische Dynamiken und narrative Muster für adulte Romance und Erotik: Skinship, Pheromone, erogene Zonen, Luststeigerung, Dirty Talk und Afterglow.",
       "entry_count": 7,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/adult_romance_eroticism.json",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true,
       "translations": {
         "en": {
@@ -47,7 +47,7 @@
       "author": "SnowwhiteOakheart",
       "entry_count": 5,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_world.json",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true,
       "translations": {
@@ -67,7 +67,7 @@
       "author": "SnowwhiteOakheart",
       "entry_count": 5,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_relationships.json",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true,
       "translations": {
@@ -87,7 +87,7 @@
       "author": "SnowwhiteOakheart",
       "entry_count": 6,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/lorebooks_gateway/ff7_midnight_masquerade.json",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true,
       "translations": {

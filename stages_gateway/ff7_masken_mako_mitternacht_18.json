@@ -124,6 +124,33 @@
           }
         ]
       }
+    },
+    "otakusoul_music": {
+      "set": "final_fantasy_vii_midnight_18",
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight",
+      "moods": {
+        "calm": {
+          "caption": "hotel lobby lounge, soft piano jazz",
+          "bpm": 80,
+          "duration": 150,
+          "count": 2
+        },
+        "romance": {
+          "caption": "slow waltz, intimate strings and saxophone",
+          "bpm": 72,
+          "duration": 120
+        },
+        "tension": {
+          "caption": "masked intrigue, tango rhythm, staccato strings",
+          "bpm": 112,
+          "duration": 110
+        },
+        "mystery": {
+          "caption": "whispers behind the masks, harp and mako hum",
+          "bpm": 66,
+          "duration": 120
+        }
+      }
     }
   }
 }

@@ -82,7 +82,15 @@
           }
         }
       },
-      "otakusoul_nsfw": true
+      "otakusoul_nsfw": true,
+      "otakusoul_music": {
+        "theme": "ethereal angelic harp and choir pads, curious and ancient",
+        "moods": [
+          "mystery",
+          "romance",
+          "calm"
+        ]
+      }
     }
   }
 }

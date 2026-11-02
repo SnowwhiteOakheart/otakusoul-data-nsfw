@@ -5,47 +5,47 @@
       "name": "Mint",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/mint.png",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true
     },
     {
       "name": "Jibril",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/jibril.png",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true
     },
     {
       "name": "Aoi Shirahama",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/aoi-shirahama.png",
-      "revision": 3,
-      "updated": "2026-10-18",
+      "revision": 4,
+      "updated": "2026-11-02",
       "nsfw": true
     },
     {
       "name": "Ren Kisaragi",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/ren-kisaragi.png",
-      "revision": 3,
-      "updated": "2026-10-18",
+      "revision": 4,
+      "updated": "2026-11-02",
       "nsfw": true
     },
     {
       "name": "Albedo",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/albedo.png",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true
     },
     {
       "name": "Tifa Lockhart",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/tifa_lockhart.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true
     },
@@ -53,7 +53,7 @@
       "name": "Aerith Gainsborough",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/aerith_gainsborough.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true
     },
@@ -61,7 +61,7 @@
       "name": "Cloud Strife",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/cloud_strife.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true
     },
@@ -69,7 +69,7 @@
       "name": "Sephiroth",
       "author": "SnowwhiteOakheart",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/cards_gateway/sephiroth.png",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true
     }

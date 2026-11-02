@@ -8,8 +8,8 @@
       "description": "Nach einem zermürbenden CSU-Einsatz ziehen sich Mint und {{user}} in die gesicherte Dienstunterkunft zurück. Zeit für eine ganz andere Art von Einsatz.",
       "starting_location": "Private Dienstunterkunft der CSU-2, schwach beleuchteter Ruheraum mit Ledersofa",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/stages_gateway/nachtschicht_in_hethereau.json",
-      "revision": 2,
-      "updated": "2026-10-18",
+      "revision": 3,
+      "updated": "2026-11-02",
       "nsfw": true,
       "translations": {
         "en": {
@@ -31,7 +31,7 @@
       "author": "SnowwhiteOakheart",
       "starting_location": "Foyer des Hotels Lumen, Midgars obere Platte",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/otakusoul-data-nsfw/main/stages_gateway/ff7_masken_mako_mitternacht_18.json",
-      "revision": 1,
+      "revision": 2,
       "updated": "2026-11-02",
       "nsfw": true,
       "translations": {

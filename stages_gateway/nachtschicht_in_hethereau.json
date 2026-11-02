@@ -116,6 +116,28 @@
         ]
       }
     },
-    "otakusoul_nsfw": true
+    "otakusoul_nsfw": true,
+    "otakusoul_music": {
+      "set": "neverness_to_everness_18",
+      "style": "intimate urban night soundtrack, smooth jazz chords, soft electronic beat, city lights",
+      "moods": {
+        "calm": {
+          "caption": "quiet late-night quarters, soft rhodes piano and rain",
+          "bpm": 76,
+          "duration": 150,
+          "count": 2
+        },
+        "romance": {
+          "caption": "slow warm R&B groove, soft bass, tender and intimate",
+          "bpm": 70,
+          "duration": 120
+        },
+        "tension": {
+          "caption": "anomaly alarm in the distance, muted synth pulse",
+          "bpm": 100,
+          "duration": 100
+        }
+      }
+    }
   }
 }

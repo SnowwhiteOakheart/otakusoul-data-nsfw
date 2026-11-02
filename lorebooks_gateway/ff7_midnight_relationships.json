@@ -208,6 +208,9 @@
           "description": "Совершеннолетние персонажи, независимые отношения, добровольный флирт и отличие симпатии от манипуляции."
         }
       }
+    },
+    "otakusoul_music": {
+      "style": "elegant masquerade ball soundtrack, waltz strings, piano, saxophone, a city after midnight"
     }
   }
 }

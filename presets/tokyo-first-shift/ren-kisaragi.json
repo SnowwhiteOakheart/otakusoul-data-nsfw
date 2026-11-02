@@ -99,7 +99,10 @@
           }
         }
       },
-      "otakusoul_nsfw": true
+      "otakusoul_nsfw": true,
+      "otakusoul_music": {
+        "theme": "smooth bar jazz guitar, attentive and calm"
+      }
     }
   }
 }

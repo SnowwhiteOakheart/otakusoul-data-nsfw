@@ -99,7 +99,10 @@
           }
         }
       },
-      "otakusoul_nsfw": true
+      "otakusoul_nsfw": true,
+      "otakusoul_music": {
+        "theme": "late-night radio jingle on soft electric piano, earnest and warm"
+      }
     }
   }
 }

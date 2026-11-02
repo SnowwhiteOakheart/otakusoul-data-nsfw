@@ -104,7 +104,10 @@
           }
         }
       },
-      "otakusoul_nsfw": true
+      "otakusoul_nsfw": true,
+      "otakusoul_music": {
+        "theme": "playful cat-like synth pluck, smug and cute"
+      }
     }
   }
 }
